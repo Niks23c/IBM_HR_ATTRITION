@@ -1,1 +1,25 @@
-Placeholder.txt
+
+## Create Storage (Blob) & containers
+creating an Azure Storage account (Blob, Data Lake, etc.), Microsoft gives us options to protect our data against failures.
+One of those options is Redundancy.
+
+### 👉 LRS = Locally Redundant Storage
+
+It keeps 3 copies of our data, within a single datacenter (inside one Azure region).
+
+This protects against hardware failures (like if a disk/server goes bad).
+
+It is the cheapest redundancy option.
+
+BUT — if the entire datacenter goes down (like fire, flood, or power outage), us could lose access to cpmpanay's data.
+
+Other redundancy options include:
+
+ZRS (Zone Redundant Storage): Copies across 3 availability zones in one region (safer).
+
+GRS (Geo-Redundant Storage): Copies to a paired region (hundreds of kilometers away).
+
+RA-GRS (Read-Access GRS): Same as GRS, but also gives read-only access to the secondary region.
+
+### 📌 For our IBM HR project, since we’re just learning and experimenting, using LRS is fine (cheapest and enough for non-production).
+In a real company project, they’d likely choose ZRS or GRS depending on business needs.
