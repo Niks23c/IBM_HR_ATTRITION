@@ -11,15 +11,15 @@ The workflow integrates **Python (data cleaning)**, **Azure (data pipeline & sto
 
 ---
 ## 🏗️ Architecture
-![Architect](docs/Dashboard1.jpg)  
+![Architect](images/Architect.png)  
 
 ## 🖼 Dashboard Preview  
 
 ### Executive Summary Dashboard  
-![Dashboard 1](docs/Dashboard1.jpg)  
+![Dashboard 1](images/Dashboard1.jpg)  
 
 ### Attrition Deep Dive Dashboard  
-![Dashboard 2](docs/Dashboard2.jpg)  
+![Dashboard 2](images/Dashboard2.jpg)  
 
 *(Interactive version available if hosted on Power BI Service — link can be added here)*  
 
@@ -63,9 +63,9 @@ Python was used to pull raw data directly from **Azure Blob Storage**, clean it,
 ### Steps:
  **Read raw CSV from Blob, connect and download** 
  
-![Read raw CSV from Blob, connect](docs/read1.PNG)
+![Read raw CSV from Blob, connect](images/read1.png)
 
-![Download in colab](docs/Download2.PNG)
+![Download in colab](images/Download2.png)
 
 3. **Data Cleaning & Transformation**  
    - Python scripts clean and preprocess data (missing values, encoding categorical fields, etc.).
@@ -142,28 +142,28 @@ mappings = {
 ```
    - Cleaned data stored back in Blob for ADF ingestion.
    - 
-![Connecting to BLOB](docs/connect1.PNG)
+![Connecting to BLOB](images/connect1.png)
 
-![Dashboard 2](docs/download.PNG)
+![Dashboard 2](images/download.png)
 
 
 ### Azure Blob Storage (Raw → Clean containers)  
 
-![Blob Storage](docs/Blob_raw.PNG) 
+![Blob Storage](images/Blob_raw.png) 
 
 4. **Data Orchestration (Azure Data Factory)**  
    - ADF pipeline copies cleaned data from Blob → Azure SQL Database.
    - Triggers ensure automated refresh.
 
-![ADF_Process](docs/ADF1.PNG)
+![ADF_Process](images/ADF1.png)
 
-![Mappinig](docs/ADF2.PNG)
+![Mappinig](images/ADF2.png)
 
-![Trigger](docs/Trigger.PNG)
+![Trigger](images/Trigger.png)
 
 ###🔄 Azure Data Factory (ADF) Pipeline
 
-![ADF_PIPELINE](docs/ADF_Pipeline.PNG)
+![ADF_PIPELINE](images/ADF_Pipeline.png)
 
 Source: Clean container (IBM_cleaned_*.csv)
 
@@ -176,7 +176,7 @@ Trigger: Automated run on new file arrival / scheduled refresh
 5. **Data Visualization (Power BI)**  
     ***🔗 Data Integration with Power BI
    
-![Data_Loading](docs/Data_Load.JPG)
+![Data_Loading](images/Data_Load.jpg)
 
    -Power BI was connected to Azure SQL Database via DirectQuery.
 
