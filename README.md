@@ -23,6 +23,15 @@ The workflow integrates **Python (data cleaning)**, **Azure (data pipeline & sto
 
 *(Interactive version available if hosted on Power BI Service — link can be added here)*  
 
+## 🔑 Key Insights
+- **Attrition Rate:** ~16% of employees have left.  
+- **Job Satisfaction:** Higher attrition in *Low* and *Medium* satisfaction groups.  
+- **Distance from Home:** Attrition higher for employees with longer commutes (>20 km).  
+- **Environment & Work-Life Balance:** Poor ratings correlate strongly with attrition.  
+- **Demographics:** Unmarried employees and those with fewer years at company showed higher attrition.  
+
+---
+
 ## 🚀 Key Learnings
 
 Designed an end-to-end automated HR pipeline in Azure
@@ -46,14 +55,15 @@ Showcased DirectQuery integration into Power BI, proving scalability
 
 1. **Data Ingestion**  
    - Raw HR Attrition CSV uploaded to **Azure Blob Storage**.
-  
+
 ## 🐍 Python Cleaning
 
 Python was used to pull raw data directly from **Azure Blob Storage**, clean it, and then push the cleaned dataset back into the **clean container**.  
 
 ### Steps:
  **Read raw CSV from Blob, connect and download** 
-![Dashboard 2](docs/Dashboard2.jpg)
+![Read raw CSV from Blob, connect](docs/read1.PNG)
+![Download in colab](docs/Download2.PNG)
 
 3. **Data Cleaning & Transformation**  
    - Python scripts clean and preprocess data (missing values, encoding categorical fields, etc.).
@@ -129,21 +139,36 @@ mappings = {
     "WorkLifeBalance": {1: "Bad", 2: "Good", 3: "Better", 4: "Best"}
 ```
    - Cleaned data stored back in Blob for ADF ingestion.
-![Dashboard 2](docs/Dashboard2.jpg)
-![Dashboard 2](docs/Dashboard2.jpg)
+![Connecting to BLOB](docs/connect1.PNG)
+![Dashboard 2](docs/download.PNG)
 
 
 ### Azure Blob Storage (Raw → Clean containers)  
-![Blob Storage](docs/blob_storage.png) 
+![Blob Storage](docs/Blob_raw.PNG) 
 
 4. **Data Orchestration (Azure Data Factory)**  
    - ADF pipeline copies cleaned data from Blob → Azure SQL Database.
    - Triggers ensure automated refresh.
-![Dashboard 2](docs/Dashboard2.jpg)
-![Dashboard 2](docs/Dashboard2.jpg)
+![ADF_Process](docs/ADF1.PNG)
+![Mappinig](docs/ADF2.PNG)
+![Trigger](docs/Trigger.PNG)
+
+###🔄 Azure Data Factory (ADF) Pipeline
+
+![ADF_PIPELINE](docs/ADF_Pipeline.PNG)
+
+Source: Clean container (IBM_cleaned_*.csv)
+
+Sink: Azure SQL Database (Employee_Clean table)
+
+Schema Mapping: Adjusted to handle text fields (e.g., Education → VARCHAR)
+
+Trigger: Automated run on new file arrival / scheduled refresh
 
 5. **Data Visualization (Power BI)**  
     ***🔗 Data Integration with Power BI
+   
+![Data_Loading](docs/Data_Load.JPG)
 
    -Power BI was connected to Azure SQL Database via DirectQuery.
 
@@ -156,7 +181,7 @@ Data flows directly from SQL DB → BI layer
 Any update in pipeline automatically flows into reports
 
 ---
-![ADF Pipeline](docs/adf_pipeline.png) 
+
 
 
 
