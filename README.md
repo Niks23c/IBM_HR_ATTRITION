@@ -62,7 +62,9 @@ Python was used to pull raw data directly from **Azure Blob Storage**, clean it,
 
 ### Steps:
  **Read raw CSV from Blob, connect and download** 
+ 
 ![Read raw CSV from Blob, connect](docs/read1.PNG)
+
 ![Download in colab](docs/Download2.PNG)
 
 3. **Data Cleaning & Transformation**  
@@ -139,18 +141,24 @@ mappings = {
     "WorkLifeBalance": {1: "Bad", 2: "Good", 3: "Better", 4: "Best"}
 ```
    - Cleaned data stored back in Blob for ADF ingestion.
+   - 
 ![Connecting to BLOB](docs/connect1.PNG)
+
 ![Dashboard 2](docs/download.PNG)
 
 
 ### Azure Blob Storage (Raw → Clean containers)  
+
 ![Blob Storage](docs/Blob_raw.PNG) 
 
 4. **Data Orchestration (Azure Data Factory)**  
    - ADF pipeline copies cleaned data from Blob → Azure SQL Database.
    - Triggers ensure automated refresh.
+
 ![ADF_Process](docs/ADF1.PNG)
+
 ![Mappinig](docs/ADF2.PNG)
+
 ![Trigger](docs/Trigger.PNG)
 
 ###🔄 Azure Data Factory (ADF) Pipeline
