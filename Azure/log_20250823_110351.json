@@ -1,0 +1,24 @@
+{
+    "file_name": "IBM.csv",
+    "rows": 1470,
+    "nulls": {
+        "Age": 0,
+        "Attrition": 0,
+        "Department": 0,
+        "DistanceFromHome": 0,
+        "Education": 0,
+        "EducationField": 0,
+        "EnvironmentSatisfaction": 0,
+        "JobSatisfaction": 0,
+        "MaritalStatus": 0,
+        "MonthlyIncome": 0,
+        "NumCompaniesWorked": 0,
+        "WorkLifeBalance": 0,
+        "YearsAtCompany": 0
+    },
+    "duplicates": "0",
+    "outliers": {
+        "Age": 0,
+        "MonthlyIncome": "Skipped (kept original values)"
+    }
+}
