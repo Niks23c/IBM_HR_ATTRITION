@@ -187,8 +187,3 @@ Any update in pipeline automatically flows into reports
 ---
 
 
-
-
-
-}
-df["JobSatisfaction"] = df["JobSatisfaction"].map(mappings["JobSatisfaction"])
