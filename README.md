@@ -45,10 +45,6 @@ Automated ETL with ADF triggers
 Showcased DirectQuery integration into Power BI, proving scalability
 ---
 
-## 🗂 Project Workflow  
-
-**Raw → Cleaned → SQL DB → Power BI**  
-
 ## 📌 Project Workflow
 
 ---
