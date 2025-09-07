@@ -1,0 +1,1471 @@
+EmployeeNumber,Age,Attrition,Department,DistanceFromHome,Education,EducationField,EnvironmentSatisfaction,JobSatisfaction,MaritalStatus,MonthlyIncome,NumCompaniesWorked,WorkLifeBalance,YearsAtCompany
+1,41,Yes,Sales,1,College,Life Sciences,Medium,Very High,Single,5993,8,Bad,6
+2,49,No,Research & Development,8,Below College,Life Sciences,High,Medium,Married,5130,1,Better,10
+3,37,Yes,Research & Development,2,College,Other,Very High,High,Single,2090,6,Better,0
+4,33,No,Research & Development,3,Master,Life Sciences,Very High,High,Married,2909,1,Better,8
+5,27,No,Research & Development,2,Below College,Medical,Low,Medium,Married,3468,9,Better,2
+6,32,No,Research & Development,2,College,Life Sciences,Very High,Very High,Single,3068,0,Good,7
+7,59,No,Research & Development,3,Bachelor,Medical,High,Low,Married,2670,4,Good,1
+8,30,No,Research & Development,24,Below College,Life Sciences,Very High,High,Divorced,2693,1,Better,1
+9,38,No,Research & Development,23,Bachelor,Life Sciences,Very High,High,Single,9526,0,Better,9
+10,36,No,Research & Development,27,Bachelor,Medical,High,High,Married,5237,6,Good,7
+11,35,No,Research & Development,16,Bachelor,Medical,Low,Medium,Married,2426,0,Better,5
+12,29,No,Research & Development,15,College,Life Sciences,Very High,High,Single,4193,0,Better,9
+13,31,No,Research & Development,26,Below College,Life Sciences,Low,High,Divorced,2911,1,Good,5
+14,34,No,Research & Development,19,College,Medical,Medium,Very High,Divorced,2661,0,Better,2
+15,28,Yes,Research & Development,24,Bachelor,Life Sciences,High,High,Single,2028,5,Better,4
+16,29,No,Research & Development,21,Master,Life Sciences,Medium,Low,Divorced,9980,1,Better,10
+17,32,No,Research & Development,5,College,Life Sciences,Low,Medium,Divorced,3298,0,Good,6
+18,22,No,Research & Development,16,College,Medical,Very High,Very High,Divorced,2935,1,Good,1
+19,53,No,Sales,2,Master,Life Sciences,Low,Very High,Married,15427,2,Better,25
+20,38,No,Research & Development,2,Bachelor,Life Sciences,Very High,Very High,Single,3944,5,Better,3
+21,24,No,Research & Development,11,College,Other,Low,High,Divorced,4011,0,Good,4
+22,36,Yes,Sales,9,Master,Life Sciences,High,Low,Single,3407,7,Better,5
+23,34,No,Research & Development,7,Master,Life Sciences,Low,Medium,Single,11994,0,Better,12
+24,21,No,Research & Development,15,College,Life Sciences,High,Very High,Single,1232,1,Better,0
+25,34,Yes,Research & Development,6,Below College,Medical,Medium,Low,Single,2960,2,Better,4
+26,53,No,Research & Development,5,Bachelor,Other,High,High,Divorced,19094,4,Good,14
+27,32,Yes,Research & Development,16,Below College,Life Sciences,Medium,Low,Single,3919,1,Better,10
+28,42,No,Sales,8,Master,Marketing,High,Medium,Married,6825,0,Better,9
+29,44,No,Research & Development,7,Master,Medical,Low,Very High,Married,10248,3,Better,22
+30,46,No,Sales,2,Master,Marketing,Medium,Low,Single,18947,3,Good,2
+31,33,No,Research & Development,2,Bachelor,Medical,High,Very High,Single,2496,4,Better,1
+32,44,No,Research & Development,10,Master,Other,Very High,Very High,Married,6465,2,Best,4
+33,30,No,Research & Development,9,College,Medical,Very High,High,Single,2206,1,Better,10
+34,39,Yes,Sales,5,Bachelor,Technical Degree,Very High,Very High,Married,2086,3,Best,1
+35,24,Yes,Research & Development,1,Bachelor,Medical,Medium,Very High,Married,2293,2,Good,2
+36,43,No,Research & Development,2,College,Medical,Very High,High,Divorced,2645,1,Good,5
+37,50,Yes,Sales,3,College,Marketing,Low,High,Married,2683,1,Better,3
+38,35,No,Sales,2,Bachelor,Marketing,Very High,Very High,Married,2014,1,Better,2
+39,36,No,Research & Development,5,Master,Life Sciences,Medium,Low,Married,3419,9,Best,1
+40,33,No,Sales,1,Bachelor,Life Sciences,High,Low,Married,5376,2,Better,5
+41,35,No,Research & Development,4,College,Other,High,Very High,Divorced,1951,1,Better,1
+42,27,No,Research & Development,2,Master,Life Sciences,Very High,Low,Divorced,2341,1,Better,1
+43,26,Yes,Research & Development,25,Bachelor,Life Sciences,Low,High,Single,2293,1,Good,1
+44,27,No,Sales,8,Bachelor,Life Sciences,Very High,High,Single,8726,1,Better,9
+45,30,No,Research & Development,1,College,Medical,High,Very High,Single,4011,1,Better,12
+46,41,Yes,Research & Development,12,Bachelor,Technical Degree,Medium,High,Married,19545,1,Better,22
+47,34,No,Sales,23,Master,Marketing,Medium,High,Single,4568,0,Better,9
+48,37,No,Research & Development,19,College,Life Sciences,Medium,Medium,Married,3022,4,Better,1
+49,46,No,Sales,5,Master,Marketing,Low,Very High,Single,5772,4,Better,9
+50,35,No,Research & Development,8,Below College,Life Sciences,Very High,Very High,Married,2269,1,Better,1
+51,48,Yes,Research & Development,1,College,Life Sciences,Low,High,Single,5381,9,Better,1
+52,28,Yes,Research & Development,5,Master,Technical Degree,High,High,Single,3441,1,Good,2
+53,44,No,Sales,1,Doctor,Marketing,Medium,Low,Divorced,5454,5,Good,4
+54,35,No,Research & Development,11,College,Medical,High,Low,Married,9884,2,Better,4
+55,26,No,Sales,23,Bachelor,Marketing,High,Very High,Married,4157,7,Good,2
+56,33,No,Research & Development,1,College,Life Sciences,Low,Very High,Single,13458,1,Better,15
+57,35,No,Sales,18,Doctor,Life Sciences,Medium,Low,Married,9069,1,Good,9
+58,35,No,Research & Development,23,Master,Medical,High,Low,Married,4014,3,Better,2
+59,31,No,Research & Development,7,Master,Life Sciences,Very High,Very High,Divorced,5915,3,Good,7
+60,37,No,Research & Development,1,Master,Life Sciences,Low,High,Divorced,5993,1,Best,7
+61,32,No,Research & Development,1,Bachelor,Medical,Low,Very High,Married,6162,1,Better,9
+62,38,No,Research & Development,29,Doctor,Life Sciences,Very High,Very High,Single,2406,1,Better,10
+63,50,No,Research & Development,7,College,Medical,Medium,High,Divorced,18740,5,Good,27
+64,59,No,Sales,25,Bachelor,Life Sciences,Low,Low,Single,7637,7,Good,21
+65,36,No,Research & Development,8,Bachelor,Technical Degree,High,High,Divorced,10096,1,Better,17
+66,55,No,Research & Development,8,Bachelor,Medical,Very High,High,Divorced,14756,2,Better,5
+67,36,No,Research & Development,11,Bachelor,Life Sciences,Medium,Medium,Single,6499,1,Better,6
+68,45,No,Research & Development,7,Bachelor,Life Sciences,Medium,Low,Divorced,9724,2,Better,1
+69,35,No,Research & Development,1,Bachelor,Medical,Medium,Low,Married,2194,4,Good,3
+70,36,Yes,Research & Development,9,Bachelor,Medical,Very High,High,Married,3388,0,Good,1
+71,59,No,Sales,1,Below College,Life Sciences,Low,High,Single,5473,7,Good,4
+72,29,No,Research & Development,2,Bachelor,Life Sciences,High,Medium,Married,2703,0,Better,5
+73,31,No,Research & Development,1,Master,Medical,High,Medium,Single,2501,1,Better,1
+74,32,No,Research & Development,1,Bachelor,Life Sciences,Medium,Medium,Married,6220,1,Better,10
+75,36,No,Research & Development,6,Bachelor,Life Sciences,Medium,Very High,Married,3038,3,Better,1
+76,31,No,Research & Development,8,Master,Life Sciences,High,Very High,Single,4424,1,Better,11
+77,35,No,Sales,1,Master,Marketing,High,Low,Single,4312,0,Better,15
+78,45,No,Research & Development,6,Master,Other,Very High,Low,Married,13245,4,Best,0
+79,37,No,Research & Development,7,Master,Medical,Low,High,Single,13664,4,Best,5
+80,46,No,Human Resources,5,College,Medical,Medium,Medium,Divorced,5021,8,Better,4
+81,30,No,Research & Development,1,Below College,Life Sciences,Very High,Very High,Married,5126,1,Good,10
+82,35,No,Research & Development,1,Bachelor,Medical,Medium,High,Single,2859,1,Better,6
+83,55,No,Sales,1,College,Life Sciences,Low,Very High,Married,10239,3,Better,1
+84,38,No,Research & Development,6,Bachelor,Medical,Medium,Very High,Divorced,5329,7,Better,13
+85,34,No,Research & Development,1,College,Medical,Low,Medium,Married,4325,1,Better,5
+86,56,No,Research & Development,7,Bachelor,Life Sciences,Very High,Very High,Single,7260,4,Good,6
+87,23,No,Sales,2,Below College,Technical Degree,High,Low,Divorced,2322,3,Better,0
+88,51,No,Research & Development,9,Master,Life Sciences,Very High,Very High,Married,2075,3,Better,4
+89,30,No,Research & Development,2,Bachelor,Life Sciences,High,Very High,Married,4152,1,Better,11
+90,46,Yes,Sales,9,College,Medical,High,Very High,Single,9619,1,Better,9
+91,40,No,Research & Development,1,Master,Life Sciences,High,Medium,Married,13503,1,Good,22
+92,51,No,Sales,21,Master,Marketing,High,Very High,Single,5441,0,Bad,10
+93,30,No,Sales,4,College,Medical,High,Medium,Divorced,5209,1,Good,11
+94,46,No,Research & Development,1,Bachelor,Medical,High,Low,Married,10673,2,Good,10
+95,32,No,Sales,6,Master,Medical,Medium,High,Single,5010,1,Better,11
+96,54,No,Research & Development,2,Master,Technical Degree,Low,High,Married,13549,9,Bad,4
+97,24,No,Sales,3,College,Other,Low,High,Married,4999,0,Good,3
+98,28,No,Sales,4,Bachelor,Medical,Medium,High,Married,4221,1,Best,5
+99,58,No,Sales,10,Master,Medical,Very High,High,Single,13872,0,Good,37
+100,44,No,Research & Development,23,Bachelor,Medical,Medium,Medium,Married,2042,4,Best,3
+101,37,Yes,Human Resources,6,Master,Human Resources,High,Low,Divorced,2073,4,Better,3
+102,32,No,Research & Development,1,Below College,Life Sciences,Very High,Low,Single,2956,1,Better,1
+103,20,Yes,Research & Development,6,Bachelor,Life Sciences,Very High,Very High,Single,2926,1,Better,1
+104,34,No,Research & Development,6,Master,Other,Low,High,Single,4809,1,Better,16
+105,37,No,Research & Development,2,College,Life Sciences,High,Very High,Divorced,5163,5,Best,1
+106,59,No,Human Resources,2,Master,Human Resources,High,Very High,Married,18844,9,Better,3
+107,50,No,Research & Development,1,Bachelor,Life Sciences,Low,Medium,Married,18172,3,Good,8
+108,25,Yes,Sales,5,Bachelor,Marketing,High,High,Single,5744,1,Better,6
+109,25,No,Research & Development,7,Below College,Medical,Very High,Very High,Married,2889,1,Better,2
+110,22,No,Research & Development,15,Bachelor,Medical,Medium,Very High,Single,2871,1,Better,0
+111,51,No,Research & Development,1,Master,Medical,Low,Low,Single,7484,3,Good,13
+112,34,Yes,Research & Development,7,Bachelor,Life Sciences,Low,High,Single,6074,1,Better,9
+113,54,No,Human Resources,26,Bachelor,Human Resources,Very High,Very High,Single,17328,2,Better,5
+114,24,No,Research & Development,18,Below College,Life Sciences,Medium,High,Married,2774,0,Better,5
+115,34,No,Research & Development,6,Master,Life Sciences,High,Medium,Divorced,4505,6,Better,1
+116,37,No,Sales,3,Bachelor,Life Sciences,High,Very High,Single,7428,2,Better,5
+117,34,No,Research & Development,5,Bachelor,Medical,High,Low,Single,11631,2,Better,11
+118,36,No,Sales,11,College,Technical Degree,Medium,Very High,Married,9738,0,Better,9
+119,36,No,Research & Development,3,College,Life Sciences,Low,Very High,Divorced,2835,5,Better,1
+120,43,No,Sales,26,College,Life Sciences,High,Very High,Married,16959,1,Best,25
+121,30,No,Research & Development,23,Bachelor,Life Sciences,Low,High,Divorced,2613,1,Good,10
+122,33,No,Sales,22,College,Marketing,High,Medium,Married,6146,0,Best,7
+123,56,Yes,Research & Development,14,Master,Life Sciences,Medium,Medium,Married,4963,9,Better,5
+124,51,No,Research & Development,6,Bachelor,Life Sciences,Low,High,Single,19537,7,Better,20
+125,31,Yes,Sales,6,Master,Life Sciences,Medium,High,Married,6172,4,Good,7
+126,26,No,Research & Development,6,Bachelor,Other,High,Medium,Married,2368,1,Good,5
+127,58,Yes,Research & Development,23,Master,Medical,Very High,Very High,Married,10312,1,Good,40
+128,19,Yes,Sales,22,Below College,Marketing,Very High,High,Single,1675,1,Good,0
+129,22,No,Research & Development,2,Below College,Technical Degree,High,Very High,Married,2523,0,Better,2
+130,49,No,Research & Development,20,Master,Medical,High,Low,Married,6567,1,Good,15
+131,43,No,Research & Development,28,Bachelor,Medical,Medium,High,Single,4739,4,Better,3
+132,50,No,Sales,12,Bachelor,Marketing,High,Very High,Single,9208,4,Better,2
+133,31,Yes,Sales,20,Bachelor,Life Sciences,Medium,High,Married,4559,3,Better,2
+134,41,No,Sales,9,Below College,Life Sciences,High,High,Divorced,8189,3,Better,9
+135,26,No,Human Resources,25,Below College,Life Sciences,High,High,Married,2942,1,Better,8
+136,36,No,Research & Development,6,College,Medical,Medium,Medium,Divorced,4941,6,Better,3
+137,51,Yes,Research & Development,8,Master,Life Sciences,Low,Very High,Single,10650,2,Better,4
+138,39,No,Sales,4,Master,Life Sciences,Very High,High,Married,5902,4,Best,15
+139,25,No,Sales,28,Bachelor,Life Sciences,Low,High,Married,8639,2,Better,2
+140,30,No,Human Resources,9,Bachelor,Human Resources,High,Very High,Married,6347,0,Bad,11
+141,32,Yes,Research & Development,9,Bachelor,Medical,Low,Low,Single,4200,7,Best,5
+142,45,No,Research & Development,29,Bachelor,Medical,High,Very High,Single,3452,5,Good,6
+143,38,No,Research & Development,3,Doctor,Technical Degree,Very High,High,Single,4317,3,Better,3
+144,30,No,Research & Development,18,Bachelor,Life Sciences,Low,High,Single,2632,1,Good,5
+145,32,No,Sales,9,College,Medical,Very High,Very High,Divorced,4668,0,Best,8
+146,30,No,Research & Development,5,Bachelor,Technical Degree,Very High,Low,Divorced,3204,5,Better,3
+147,30,No,Research & Development,2,Below College,Medical,Medium,Very High,Single,2720,0,Better,5
+148,41,No,Research & Development,10,Bachelor,Life Sciences,Very High,Low,Divorced,17181,4,Good,7
+149,41,No,Research & Development,9,Master,Life Sciences,High,Low,Married,2238,2,Better,5
+150,19,No,Research & Development,3,Below College,Medical,Medium,Medium,Single,1483,1,Better,1
+151,40,No,Research & Development,26,Bachelor,Medical,Medium,Medium,Divorced,5605,1,Better,20
+152,35,No,Sales,1,Doctor,Marketing,High,Medium,Married,7295,1,Better,10
+153,53,No,Sales,6,College,Marketing,Medium,High,Married,2306,2,Bad,7
+154,45,No,Research & Development,9,Bachelor,Life Sciences,Medium,Medium,Divorced,2348,8,Bad,17
+155,32,No,Sales,8,Bachelor,Marketing,Medium,Very High,Single,8998,1,Better,9
+156,29,No,Research & Development,1,Below College,Technical Degree,Very High,High,Married,4319,1,Better,10
+157,51,No,Research & Development,7,Master,Medical,Medium,High,Married,6132,2,Better,1
+158,58,No,Research & Development,9,Bachelor,Medical,Medium,Medium,Married,3346,4,Good,1
+159,40,No,Sales,4,Master,Marketing,High,Very High,Married,10855,7,Good,12
+160,34,No,Sales,2,Master,Marketing,High,High,Married,2231,6,Better,4
+161,22,No,Research & Development,19,Below College,Medical,High,Very High,Married,2323,1,Better,2
+162,27,No,Research & Development,9,Bachelor,Medical,Very High,Medium,Divorced,2024,6,Bad,2
+163,28,No,Research & Development,21,Bachelor,Medical,High,Very High,Married,2713,1,Bad,5
+164,57,No,Research & Development,24,College,Life Sciences,High,Very High,Divorced,9439,3,Bad,5
+165,27,No,Research & Development,3,Bachelor,Medical,High,High,Divorced,2566,1,Good,1
+166,50,No,Research & Development,11,Bachelor,Life Sciences,High,Medium,Single,19926,3,Better,5
+167,41,No,Research & Development,14,Bachelor,Life Sciences,Low,High,Divorced,2451,4,Better,9
+168,30,No,Sales,5,Bachelor,Life Sciences,Medium,Very High,Married,9419,2,Better,10
+169,38,No,Sales,1,Master,Life Sciences,Low,Very High,Single,8686,4,Best,8
+170,32,No,Research & Development,6,Doctor,Life Sciences,High,High,Single,3038,3,Better,5
+171,27,No,Research & Development,17,Bachelor,Technical Degree,High,Medium,Married,3058,0,Good,5
+172,19,Yes,Sales,1,Below College,Technical Degree,High,Low,Single,2325,0,Best,0
+173,36,No,Research & Development,3,College,Medical,Very High,Medium,Single,2088,4,Good,8
+174,30,No,Research & Development,9,Bachelor,Medical,High,Low,Divorced,3072,1,Better,12
+175,45,No,Sales,4,College,Life Sciences,High,Low,Divorced,5006,4,Best,5
+176,56,No,Research & Development,8,Bachelor,Life Sciences,High,Low,Divorced,4257,4,Better,2
+177,33,No,Research & Development,2,Bachelor,Life Sciences,High,Very High,Single,2500,0,Best,3
+178,19,Yes,Research & Development,2,Bachelor,Life Sciences,Medium,Very High,Single,1102,1,Good,1
+179,46,No,Sales,1,College,Marketing,Medium,Low,Divorced,10453,1,Better,24
+180,38,No,Research & Development,9,College,Life Sciences,High,Very High,Single,2288,1,Better,2
+181,31,No,Research & Development,12,Below College,Medical,High,Very High,Married,3929,8,Better,4
+182,34,No,Research & Development,27,College,Medical,Very High,Medium,Single,2311,2,Better,3
+183,41,Yes,Sales,20,College,Marketing,Medium,Medium,Single,3140,1,Good,4
+184,50,No,Research & Development,1,Bachelor,Medical,High,High,Married,3690,2,Good,3
+185,53,No,Research & Development,13,College,Medical,Very High,Low,Divorced,4450,1,Better,4
+186,33,No,Research & Development,14,Bachelor,Medical,Very High,Medium,Married,2756,1,Better,8
+187,40,No,Research & Development,4,Below College,Medical,Very High,High,Married,19033,1,Better,20
+188,55,No,Research & Development,14,Master,Medical,High,Medium,Single,18722,8,Better,24
+189,34,No,Research & Development,2,Below College,Life Sciences,Very High,High,Married,9547,1,Good,10
+190,51,No,Research & Development,3,Bachelor,Medical,Very High,Medium,Single,13734,3,Better,7
+191,52,No,Research & Development,1,Master,Life Sciences,High,High,Married,19999,0,Better,33
+192,27,No,Research & Development,9,Bachelor,Medical,Very High,Medium,Single,2279,1,Good,7
+193,35,Yes,Research & Development,23,College,Life Sciences,Medium,High,Married,5916,3,Better,1
+194,43,No,Research & Development,7,Bachelor,Medical,Very High,Very High,Divorced,2089,4,Best,5
+195,45,No,Research & Development,2,College,Medical,Low,Very High,Married,16792,9,Better,20
+196,37,No,Research & Development,21,Bachelor,Life Sciences,Medium,Low,Married,3564,1,Good,8
+197,35,No,Research & Development,2,Bachelor,Medical,Medium,Medium,Single,4425,5,Better,6
+198,42,No,Research & Development,21,College,Medical,High,High,Divorced,5265,2,Better,5
+199,38,No,Research & Development,2,Master,Life Sciences,Very High,High,Married,6553,9,Better,1
+200,38,No,Research & Development,29,Bachelor,Technical Degree,Very High,Very High,Married,6261,3,Bad,7
+201,27,No,Research & Development,1,Below College,Technical Degree,High,Low,Married,4298,5,Better,2
+202,49,No,Research & Development,18,Master,Life Sciences,Very High,Very High,Divorced,6804,1,Better,7
+203,34,No,Research & Development,10,Master,Medical,Very High,High,Divorced,3815,1,Best,5
+204,40,No,Research & Development,19,College,Medical,High,Very High,Married,2741,8,Best,7
+205,38,Yes,Research & Development,29,Below College,Medical,Medium,Low,Married,6673,7,Better,1
+206,29,Yes,Sales,27,Bachelor,Marketing,Medium,Very High,Married,7639,1,Good,10
+207,22,No,Research & Development,5,Bachelor,Life Sciences,Very High,Medium,Divorced,2328,1,Good,4
+208,36,No,Research & Development,18,Below College,Medical,Medium,Very High,Single,2153,1,Better,8
+209,40,No,Research & Development,9,Doctor,Life Sciences,Very High,Very High,Married,4876,9,Bad,3
+210,46,No,Research & Development,1,Master,Medical,Very High,Low,Divorced,9396,7,Better,4
+211,32,Yes,Sales,4,Master,Medical,Very High,Very High,Married,10400,1,Good,14
+212,30,No,Research & Development,1,Below College,Life Sciences,High,High,Single,8474,1,Better,11
+213,27,No,Sales,20,Bachelor,Life Sciences,Very High,High,Single,9981,1,Better,7
+214,51,No,Research & Development,8,Master,Life Sciences,Medium,Medium,Married,12490,5,Bad,10
+215,30,Yes,Research & Development,3,Bachelor,Technical Degree,Very High,Low,Single,2657,5,Better,5
+216,41,No,Sales,6,Bachelor,Life Sciences,Very High,Very High,Single,13591,3,Better,1
+217,30,Yes,Sales,26,Master,Marketing,High,Low,Single,6696,5,Good,6
+218,29,Yes,Research & Development,1,Bachelor,Technical Degree,High,High,Single,2058,0,Good,6
+219,45,No,Sales,6,Bachelor,Medical,Very High,Very High,Single,8865,6,Better,19
+220,54,No,Sales,3,Bachelor,Marketing,Very High,Low,Married,5940,2,Better,6
+221,36,No,Research & Development,5,College,Life Sciences,Very High,Medium,Single,5914,8,Best,13
+222,33,No,Research & Development,4,Master,Medical,High,Medium,Married,2622,6,Better,3
+223,37,No,Research & Development,11,Bachelor,Other,Medium,Very High,Divorced,12185,1,Better,10
+224,38,No,Sales,3,Bachelor,Life Sciences,Low,High,Divorced,10609,0,Good,16
+225,31,No,Research & Development,1,Master,Medical,High,High,Married,4345,0,Better,5
+226,59,No,Research & Development,3,Bachelor,Life Sciences,High,Very High,Married,2177,3,Better,1
+227,37,No,Sales,4,Master,Marketing,Low,Very High,Divorced,2793,4,Better,9
+228,29,No,Sales,1,Below College,Medical,Medium,Very High,Married,7918,1,Better,11
+229,35,No,Sales,1,Bachelor,Marketing,High,High,Single,8789,1,Best,10
+230,29,Yes,Research & Development,18,Below College,Medical,High,Very High,Single,2389,1,Good,4
+231,52,No,Research & Development,2,Bachelor,Life Sciences,High,Very High,Single,3212,7,Good,2
+232,42,No,Research & Development,4,College,Technical Degree,High,Very High,Married,19232,1,Better,22
+233,59,No,Human Resources,6,College,Medical,Medium,High,Married,2267,8,Good,2
+234,50,No,Sales,1,Master,Medical,Very High,Very High,Divorced,19517,3,Good,7
+235,33,Yes,Research & Development,14,Bachelor,Medical,High,Very High,Married,2436,5,Bad,5
+236,43,No,Sales,16,Bachelor,Marketing,Very High,Very High,Married,16064,5,Better,17
+237,33,Yes,Research & Development,2,College,Life Sciences,Low,Low,Married,2707,7,Best,9
+238,52,No,Sales,2,Master,Life Sciences,Low,High,Single,19068,1,Best,33
+239,32,No,Sales,4,College,Life Sciences,High,Medium,Married,3931,2,Better,4
+240,32,Yes,Research & Development,1,Bachelor,Life Sciences,Very High,High,Single,3730,0,Bad,3
+241,39,No,Research & Development,1,Master,Medical,High,High,Divorced,2232,7,Better,3
+242,32,No,Sales,26,Master,Marketing,High,Very High,Married,4465,0,Better,3
+243,41,No,Research & Development,19,College,Life Sciences,High,Low,Divorced,3072,2,Good,1
+244,40,No,Research & Development,24,College,Technical Degree,Low,Very High,Divorced,3319,1,Better,9
+245,45,No,Research & Development,1,Bachelor,Other,High,Very High,Married,19202,0,Better,24
+246,31,No,Research & Development,3,Master,Medical,Medium,High,Divorced,13675,9,Better,2
+247,33,No,Research & Development,5,Master,Life Sciences,High,Very High,Married,2911,1,Good,2
+248,34,No,Research & Development,2,Master,Life Sciences,Very High,Low,Married,5957,6,Better,11
+249,37,No,Research & Development,1,College,Medical,High,Low,Married,3920,2,Good,3
+250,45,No,Research & Development,7,Master,Life Sciences,Low,High,Married,6434,4,Better,3
+251,37,Yes,Research & Development,10,Bachelor,Medical,Low,High,Divorced,10048,6,Better,1
+252,39,No,Research & Development,2,Master,Technical Degree,High,High,Single,10938,0,Better,19
+253,29,No,Research & Development,15,Bachelor,Life Sciences,High,Very High,Single,2340,1,Better,6
+254,42,No,Research & Development,17,College,Life Sciences,Very High,Low,Single,6545,3,Better,3
+255,29,No,Sales,20,College,Marketing,Very High,Very High,Divorced,6931,2,Better,3
+256,25,No,Research & Development,1,Bachelor,Life Sciences,Low,High,Married,4898,0,Better,4
+257,42,No,Research & Development,2,Bachelor,Medical,Very High,Low,Divorced,2593,0,Better,9
+258,40,No,Research & Development,2,College,Medical,Low,High,Divorced,19436,0,Better,21
+259,51,No,Research & Development,1,Bachelor,Life Sciences,High,Very High,Married,2723,1,Good,1
+260,31,Yes,Research & Development,29,College,Medical,High,Medium,Single,3479,0,Best,5
+261,32,No,Research & Development,7,Bachelor,Life Sciences,Medium,Medium,Married,2794,1,Bad,5
+262,38,No,Sales,2,College,Life Sciences,Very High,Very High,Married,5249,3,Better,8
+263,32,No,Research & Development,2,Below College,Technical Degree,Very High,Low,Single,2176,4,Better,6
+264,46,No,Sales,2,Bachelor,Technical Degree,High,Medium,Married,16872,3,Good,7
+265,28,Yes,Research & Development,2,Master,Life Sciences,Low,High,Single,3485,2,Bad,0
+266,29,No,Sales,2,Bachelor,Medical,Low,Medium,Married,6644,2,Better,0
+267,31,No,Research & Development,23,Bachelor,Medical,Medium,Very High,Married,5582,0,Better,9
+268,25,No,Research & Development,5,College,Life Sciences,Medium,Low,Divorced,4000,1,Better,6
+269,45,No,Research & Development,20,College,Medical,High,Very High,Married,13496,0,Better,20
+270,36,No,Research & Development,6,Bachelor,Life Sciences,Very High,Very High,Married,3210,0,Better,15
+271,55,No,Research & Development,1,Bachelor,Medical,Very High,Low,Single,19045,0,Better,36
+272,47,Yes,Research & Development,29,Master,Life Sciences,Low,Medium,Married,11849,1,Good,10
+273,28,No,Research & Development,9,Bachelor,Medical,Very High,Very High,Married,2070,1,Good,5
+274,37,No,Sales,6,Master,Medical,High,Very High,Married,6502,4,Best,5
+275,21,No,Research & Development,3,College,Medical,Very High,High,Single,3230,1,Best,3
+276,37,No,Research & Development,1,Master,Medical,Low,Very High,Divorced,13603,2,Better,5
+277,35,No,Research & Development,22,Bachelor,Life Sciences,Medium,Medium,Divorced,11996,7,Good,7
+278,38,No,Sales,7,College,Medical,Low,Low,Divorced,5605,1,Better,8
+279,26,No,Research & Development,1,Bachelor,Life Sciences,High,Medium,Divorced,6397,1,Bad,6
+280,50,No,Research & Development,4,Below College,Life Sciences,Low,Medium,Divorced,19144,3,Good,10
+281,53,No,Research & Development,3,Master,Medical,High,High,Married,17584,3,Good,5
+282,42,No,Sales,1,Below College,Life Sciences,Medium,High,Married,4907,1,Better,20
+283,29,No,Sales,2,College,Life Sciences,Medium,Very High,Single,4554,1,Good,10
+284,55,No,Research & Development,20,College,Technical Degree,Medium,Very High,Married,5415,3,Better,10
+285,26,No,Research & Development,11,College,Medical,Low,Low,Married,4741,1,Better,5
+286,37,No,Research & Development,1,Bachelor,Life Sciences,Very High,Very High,Single,2115,1,Better,17
+287,44,Yes,Research & Development,24,Bachelor,Life Sciences,Very High,High,Divorced,3161,3,Bad,1
+288,38,No,Research & Development,23,Master,Life Sciences,Very High,Very High,Divorced,5745,9,Better,2
+289,26,Yes,Research & Development,16,Master,Medical,Low,Medium,Divorced,2373,2,Better,3
+290,28,No,Research & Development,8,College,Life Sciences,Very High,Very High,Single,3310,1,Better,5
+291,49,No,Research & Development,10,Master,Life Sciences,High,Low,Single,18665,9,Better,3
+292,36,No,Research & Development,3,Bachelor,Technical Degree,High,Medium,Single,4485,4,Better,8
+293,31,No,Sales,5,Bachelor,Marketing,Very High,Medium,Divorced,2789,1,Good,2
+294,26,Yes,Sales,4,Master,Marketing,Very High,Very High,Single,5828,1,Better,8
+295,37,No,Research & Development,9,Bachelor,Medical,Medium,Very High,Married,2326,1,Good,4
+296,42,No,Sales,26,Bachelor,Marketing,High,Medium,Married,13525,5,Best,20
+297,18,Yes,Research & Development,3,Bachelor,Life Sciences,High,High,Single,1420,1,Better,0
+298,35,No,Sales,16,Bachelor,Marketing,High,Medium,Married,8020,0,Good,11
+299,36,No,Research & Development,18,Master,Life Sciences,High,Very High,Married,3688,4,Better,1
+300,51,No,Research & Development,2,Bachelor,Medical,Very High,Medium,Divorced,5482,5,Better,4
+301,41,No,Sales,2,Master,Life Sciences,Very High,Medium,Single,16015,1,Better,22
+302,18,No,Sales,10,Bachelor,Medical,Very High,High,Single,1200,1,Better,0
+303,28,No,Research & Development,16,College,Medical,Medium,Low,Single,5661,0,Better,8
+304,31,No,Sales,7,Bachelor,Technical Degree,Medium,Very High,Married,6929,4,Good,8
+305,39,No,Research & Development,1,Bachelor,Medical,High,Very High,Divorced,9613,0,Good,18
+306,36,No,Research & Development,24,Master,Life Sciences,Medium,Medium,Married,5674,7,Better,9
+307,32,No,Sales,7,Bachelor,Life Sciences,Very High,High,Married,5484,1,Good,13
+308,38,No,Research & Development,25,College,Life Sciences,Low,Medium,Married,12061,3,Better,10
+309,58,No,Research & Development,1,Master,Life Sciences,Very High,High,Divorced,5660,2,Better,5
+310,31,No,Research & Development,5,Master,Technical Degree,High,Very High,Married,4821,0,Better,5
+311,31,No,Human Resources,2,Bachelor,Human Resources,Low,Low,Married,6410,3,Better,2
+312,45,No,Research & Development,7,Bachelor,Life Sciences,Low,Low,Divorced,5210,1,Better,24
+313,31,No,Research & Development,2,Master,Life Sciences,High,Very High,Divorced,2695,0,Bad,2
+314,33,No,Research & Development,5,Master,Life Sciences,Very High,Medium,Married,11878,6,Better,10
+315,39,No,Research & Development,10,Below College,Medical,High,Low,Married,17068,1,Better,21
+316,43,No,Research & Development,10,Master,Life Sciences,High,Very High,Single,2455,0,Better,8
+317,49,No,Research & Development,1,College,Technical Degree,High,High,Single,13964,7,Better,7
+318,52,Yes,Research & Development,8,Master,Medical,High,Medium,Married,4941,2,Good,8
+319,27,No,Research & Development,5,Bachelor,Life Sciences,High,Medium,Single,2478,1,Good,4
+320,32,No,Sales,8,College,Technical Degree,High,Medium,Married,5228,1,Better,13
+321,27,No,Sales,2,Bachelor,Life Sciences,Very High,High,Single,4478,1,Better,5
+322,31,No,Sales,7,Bachelor,Marketing,Very High,Very High,Divorced,7547,4,Better,7
+323,32,No,Research & Development,2,Master,Medical,Low,Very High,Single,5055,7,Good,7
+324,28,Yes,Research & Development,2,Master,Medical,Low,Very High,Married,3464,5,Good,3
+325,30,No,Research & Development,28,College,Medical,Very High,Very High,Married,5775,1,Better,10
+326,31,No,Research & Development,7,College,Life Sciences,High,High,Married,8943,1,Better,10
+327,39,No,Research & Development,7,College,Medical,High,Very High,Married,19272,1,Better,21
+328,39,Yes,Sales,3,College,Medical,Very High,High,Married,5238,4,Good,1
+329,33,No,Sales,10,Bachelor,Marketing,Medium,Very High,Single,4682,3,Good,7
+330,47,No,Research & Development,5,Doctor,Life Sciences,Very High,High,Married,18300,4,Better,3
+331,43,No,Research & Development,10,Master,Life Sciences,High,High,Divorced,5257,1,Best,9
+332,27,No,Sales,1,Below College,Marketing,High,Medium,Married,6349,0,Better,5
+333,54,No,Research & Development,20,Master,Life Sciences,Very High,High,Single,4869,3,Good,4
+334,43,No,Research & Development,7,Bachelor,Life Sciences,High,Low,Married,9985,8,Good,1
+335,45,No,Research & Development,8,Master,Other,Very High,Very High,Married,3697,9,Better,10
+336,40,No,Sales,1,College,Medical,Medium,Very High,Married,7457,2,Good,4
+337,29,Yes,Research & Development,8,Master,Other,Medium,Low,Married,2119,1,Good,7
+338,29,No,Research & Development,9,Doctor,Other,Medium,Very High,Single,3983,0,Better,3
+339,30,No,Sales,5,Bachelor,Marketing,Very High,High,Divorced,6118,1,Better,10
+340,27,No,Sales,8,Master,Marketing,Medium,Medium,Married,6214,1,Better,8
+341,37,No,Research & Development,5,College,Medical,Very High,Very High,Divorced,6347,7,Good,6
+342,38,No,Research & Development,15,College,Life Sciences,High,Very High,Divorced,11510,0,Better,11
+343,31,No,Research & Development,7,Master,Medical,High,Very High,Single,7143,1,Good,11
+344,29,No,Sales,10,Below College,Marketing,Very High,Medium,Divorced,8268,1,Better,7
+345,35,No,Research & Development,5,Master,Technical Degree,High,Medium,Single,8095,0,Better,16
+346,23,No,Research & Development,26,Below College,Life Sciences,High,Very High,Divorced,2904,1,Good,4
+347,41,No,Research & Development,6,Bachelor,Medical,Very High,Medium,Single,6032,6,Better,5
+348,47,No,Sales,4,Below College,Medical,Medium,High,Single,2976,3,Better,0
+349,42,No,Research & Development,23,Doctor,Life Sciences,Low,Very High,Single,15992,2,Better,1
+350,29,No,Sales,2,Bachelor,Life Sciences,Very High,High,Married,4649,1,Good,4
+351,42,No,Human Resources,2,Below College,Technical Degree,High,High,Divorced,2696,0,Better,3
+352,32,No,Research & Development,2,Bachelor,Medical,High,Medium,Married,2370,1,Better,8
+353,48,No,Sales,29,Below College,Medical,Low,High,Married,12504,3,Bad,0
+354,37,No,Research & Development,6,Bachelor,Medical,High,Low,Divorced,5974,4,Better,7
+355,30,No,Sales,25,College,Technical Degree,Very High,High,Married,4736,7,Best,2
+356,26,No,Sales,1,Bachelor,Life Sciences,High,High,Married,5296,1,Better,8
+357,42,No,Research & Development,2,Master,Other,Low,Very High,Single,6781,3,Better,1
+358,21,Yes,Sales,1,Below College,Technical Degree,Low,Medium,Single,2174,1,Better,3
+359,36,No,Sales,1,Doctor,Medical,Very High,Very High,Single,6653,4,Better,1
+360,36,No,Sales,3,Master,Medical,Low,Very High,Married,9699,4,Better,13
+361,57,No,Research & Development,1,Master,Medical,Very High,High,Married,6755,2,Better,3
+362,40,No,Research & Development,10,Master,Life Sciences,Very High,High,Married,2213,3,Better,7
+363,21,No,Sales,9,College,Medical,Low,Very High,Single,2610,1,Good,3
+364,33,Yes,Sales,5,Bachelor,Marketing,Very High,High,Single,2851,1,Better,1
+365,37,No,Research & Development,10,Bachelor,Medical,High,Low,Married,3452,6,Better,5
+366,46,No,Research & Development,7,Master,Medical,High,High,Married,5258,2,Best,1
+367,41,Yes,Sales,4,Bachelor,Marketing,Low,Medium,Single,9355,1,Better,8
+368,50,No,Research & Development,10,Bachelor,Technical Degree,Very High,Very High,Single,10496,6,Better,4
+369,40,Yes,Sales,22,College,Marketing,High,High,Married,6380,2,Better,6
+370,31,No,Research & Development,9,Master,Life Sciences,High,Medium,Single,2657,0,Better,2
+371,21,Yes,Sales,12,Bachelor,Life Sciences,High,Medium,Single,2716,1,Better,1
+372,29,No,Research & Development,23,Bachelor,Life Sciences,Very High,Very High,Single,2201,9,Better,3
+373,35,No,Research & Development,9,Master,Life Sciences,High,Medium,Single,6540,9,Better,1
+374,27,No,Research & Development,1,College,Medical,Very High,Medium,Divorced,3816,1,Better,5
+375,28,No,Sales,9,Master,Life Sciences,Medium,Very High,Single,5253,1,Better,7
+376,49,No,Research & Development,7,Bachelor,Other,Medium,High,Single,10965,8,Better,5
+377,51,No,Sales,14,College,Life Sciences,High,Very High,Married,4936,4,Good,7
+378,36,No,Research & Development,2,Bachelor,Life Sciences,Very High,High,Married,2543,4,Better,2
+379,34,Yes,Sales,19,Bachelor,Marketing,Low,Very High,Single,5304,8,Good,5
+380,55,No,Research & Development,2,Bachelor,Life Sciences,High,Very High,Single,16659,2,Better,5
+381,24,No,Sales,10,Master,Marketing,Very High,High,Divorced,4260,1,Best,5
+382,30,No,Sales,2,Below College,Technical Degree,High,Medium,Married,2476,1,Better,1
+383,26,Yes,Research & Development,3,Below College,Technical Degree,High,Low,Single,3102,0,Better,6
+384,22,No,Research & Development,11,Bachelor,Medical,Low,Medium,Married,2244,1,Better,2
+385,36,No,Sales,2,College,Medical,Medium,High,Married,7596,1,Better,10
+386,30,Yes,Research & Development,4,Bachelor,Technical Degree,High,Very High,Single,2285,9,Better,1
+387,37,No,Research & Development,14,Bachelor,Life Sciences,Very High,Low,Divorced,3034,1,Good,18
+388,40,No,Sales,2,College,Marketing,Very High,Medium,Divorced,5715,7,Better,5
+389,42,No,Research & Development,1,Master,Life Sciences,Medium,Low,Divorced,2576,3,Better,5
+390,37,No,Research & Development,10,Master,Life Sciences,High,Medium,Single,4197,2,Good,1
+391,43,No,Research & Development,12,Bachelor,Life Sciences,Low,Medium,Divorced,14336,1,Better,25
+392,40,No,Research & Development,2,Bachelor,Medical,Medium,High,Married,3448,6,Better,1
+393,54,No,Research & Development,5,College,Medical,Low,Low,Married,19406,4,Good,4
+394,34,No,Sales,4,Master,Marketing,High,High,Married,6538,9,Better,3
+395,31,No,Research & Development,7,College,Medical,Medium,Low,Married,4306,1,Bad,13
+396,43,No,Research & Development,21,Bachelor,Medical,Very High,Very High,Married,2258,7,Better,3
+397,43,No,Research & Development,8,Master,Other,High,High,Divorced,4522,4,Better,5
+398,25,No,Sales,4,College,Life Sciences,Medium,Very High,Single,4487,1,Better,5
+399,37,No,Research & Development,25,Doctor,Medical,Medium,High,Married,4449,3,Better,13
+400,31,No,Research & Development,1,College,Life Sciences,Very High,Low,Married,2218,1,Better,4
+401,39,No,Research & Development,1,Below College,Life Sciences,Medium,High,Divorced,19197,1,Better,21
+402,56,No,Sales,6,Bachelor,Life Sciences,High,Low,Married,13212,9,Good,7
+403,30,No,Sales,12,Bachelor,Technical Degree,Medium,High,Single,6577,0,Better,5
+404,41,No,Sales,1,Bachelor,Marketing,Medium,Low,Married,8392,1,Better,10
+405,28,No,Research & Development,17,College,Medical,High,Low,Divorced,4558,1,Better,10
+406,25,Yes,Research & Development,3,Bachelor,Medical,Low,Low,Married,4031,5,Better,2
+407,52,No,Research & Development,3,Bachelor,Medical,Very High,High,Married,7969,2,Better,5
+408,45,No,Research & Development,10,College,Life Sciences,Low,Very High,Married,2654,3,Good,2
+409,52,No,Research & Development,4,College,Life Sciences,Very High,Very High,Married,16555,2,Bad,5
+410,42,No,Research & Development,29,College,Life Sciences,Low,High,Divorced,4556,2,Better,5
+411,30,No,Research & Development,2,Bachelor,Life Sciences,High,Very High,Single,6091,2,Better,5
+412,60,No,Research & Development,7,Bachelor,Life Sciences,Low,Low,Married,19566,5,Bad,29
+413,46,No,Research & Development,18,Bachelor,Medical,High,High,Divorced,4810,2,Good,10
+414,42,No,Research & Development,28,Master,Technical Degree,Very High,Very High,Married,4523,0,Best,6
+415,24,Yes,Sales,1,Below College,Technical Degree,Low,Medium,Single,3202,1,Better,5
+416,34,Yes,Sales,6,College,Marketing,Very High,High,Divorced,2351,0,Good,2
+417,38,No,Research & Development,2,College,Life Sciences,Very High,Very High,Married,1702,1,Better,1
+418,40,No,Sales,2,Master,Life Sciences,High,High,Married,18041,0,Better,20
+419,26,No,Research & Development,23,Bachelor,Life Sciences,Low,Very High,Divorced,2886,1,Bad,3
+420,30,No,Research & Development,3,Bachelor,Life Sciences,High,Very High,Married,2097,4,Bad,5
+421,29,No,Research & Development,3,Master,Medical,Medium,High,Married,11935,1,Better,10
+422,29,Yes,Research & Development,25,Doctor,Technical Degree,High,Medium,Married,2546,5,Best,2
+423,19,Yes,Human Resources,2,College,Technical Degree,Low,Very High,Single,2564,1,Best,1
+424,30,No,Sales,22,Master,Other,High,Low,Married,8412,0,Better,9
+425,57,No,Sales,29,Bachelor,Marketing,Low,Very High,Divorced,14118,3,Good,1
+426,50,No,Research & Development,29,Master,Life Sciences,Medium,High,Married,17046,0,Better,27
+427,30,No,Research & Development,2,Bachelor,Medical,High,Very High,Single,2564,0,Good,11
+428,60,No,Sales,28,Bachelor,Marketing,High,Low,Married,10266,4,Best,18
+429,47,No,Research & Development,2,College,Medical,Low,Very High,Divorced,5070,5,Better,5
+430,46,No,Research & Development,2,Bachelor,Life Sciences,Low,High,Married,17861,6,Bad,3
+431,35,No,Research & Development,22,Bachelor,Life Sciences,Very High,High,Single,4230,0,Better,5
+432,54,No,Research & Development,8,Master,Life Sciences,High,High,Single,3780,7,Better,1
+433,34,No,Research & Development,2,Master,Life Sciences,Very High,High,Divorced,2768,3,Better,7
+434,46,No,Sales,10,Bachelor,Marketing,High,Very High,Married,9071,2,Better,3
+435,31,No,Research & Development,9,Below College,Life Sciences,High,Medium,Divorced,10648,1,Best,13
+436,33,Yes,Research & Development,15,Below College,Medical,Medium,High,Married,13610,7,Best,7
+437,33,Yes,Research & Development,10,Below College,Medical,Low,Very High,Divorced,3408,7,Better,4
+438,30,No,Sales,7,Below College,Marketing,Very High,Medium,Single,2983,0,Better,3
+439,35,No,Research & Development,16,Bachelor,Life Sciences,Very High,High,Married,7632,4,Better,8
+440,31,Yes,Research & Development,20,Bachelor,Life Sciences,Low,High,Married,9824,3,Better,1
+441,34,Yes,Human Resources,23,Bachelor,Human Resources,Medium,Low,Divorced,9950,9,Better,3
+442,42,No,Research & Development,5,College,Other,Medium,High,Married,2093,4,Better,2
+443,36,No,Sales,10,Master,Medical,Medium,Very High,Single,9980,1,Good,10
+444,22,Yes,Research & Development,4,Below College,Technical Degree,High,High,Single,3894,5,Better,2
+445,48,No,Sales,2,Doctor,Marketing,Medium,Very High,Married,4051,2,Better,9
+446,55,No,Sales,18,Doctor,Life Sciences,Low,Medium,Single,16835,3,Better,10
+447,41,No,Sales,10,College,Life Sciences,Very High,Very High,Single,6230,7,Better,14
+448,35,No,Sales,1,Bachelor,Marketing,Medium,High,Married,4717,9,Better,11
+449,40,No,Research & Development,6,Bachelor,Life Sciences,Medium,High,Single,13237,7,Better,20
+450,39,No,Research & Development,8,Below College,Life Sciences,High,High,Married,3755,1,Better,8
+451,31,No,Sales,2,Below College,Life Sciences,Medium,Very High,Single,6582,4,Best,6
+452,42,No,Research & Development,24,Bachelor,Medical,Very High,Low,Married,7406,1,Good,10
+453,45,No,Sales,2,Bachelor,Other,Very High,Medium,Married,4805,0,Best,8
+454,26,Yes,Human Resources,17,Master,Life Sciences,Medium,High,Divorced,2741,0,Good,7
+455,29,No,Research & Development,19,Bachelor,Technical Degree,Very High,Very High,Divorced,4262,4,Best,3
+456,33,No,Research & Development,1,Doctor,Medical,Low,High,Divorced,16184,4,Better,6
+457,31,No,Sales,7,Bachelor,Life Sciences,High,Very High,Divorced,11557,9,Good,5
+458,18,Yes,Sales,5,Bachelor,Marketing,Medium,Medium,Single,1878,1,Better,0
+459,40,No,Sales,28,Bachelor,Other,High,Low,Divorced,10932,3,Better,1
+460,41,No,Research & Development,2,Master,Other,Low,High,Single,6811,2,Better,8
+461,26,No,Sales,29,College,Medical,Low,High,Divorced,4306,5,Better,0
+462,35,No,Sales,1,Bachelor,Medical,Low,High,Single,4859,1,Better,5
+463,34,No,Sales,21,Master,Life Sciences,Very High,Very High,Single,5337,1,Better,10
+464,26,Yes,Research & Development,24,Bachelor,Technical Degree,High,Very High,Single,2340,1,Bad,1
+465,37,No,Research & Development,1,Bachelor,Technical Degree,Medium,Very High,Single,7491,4,Best,6
+466,46,No,Research & Development,18,Below College,Medical,Low,High,Married,10527,5,Good,2
+467,41,No,Sales,2,Doctor,Life Sciences,Medium,Low,Married,16595,7,Better,18
+468,37,No,Sales,9,Master,Medical,Low,Medium,Divorced,8834,1,Better,9
+469,52,No,Research & Development,6,College,Technical Degree,Very High,Low,Divorced,5577,3,Better,10
+470,32,Yes,Sales,11,Master,Other,Very High,High,Married,4707,8,Better,4
+471,24,No,Sales,24,Bachelor,Medical,Very High,Very High,Married,2400,0,Better,2
+472,38,No,Research & Development,10,Bachelor,Medical,High,High,Married,9824,3,Better,1
+473,37,No,Research & Development,1,Master,Life Sciences,Medium,Medium,Married,6447,6,Good,6
+474,49,No,Research & Development,18,Master,Life Sciences,Very High,High,Divorced,19502,1,Better,31
+475,24,No,Research & Development,23,Bachelor,Medical,Medium,Very High,Married,2725,1,Better,6
+476,26,No,Sales,28,College,Marketing,Low,Medium,Married,6272,1,Best,5
+477,24,No,Research & Development,17,College,Other,Very High,Medium,Married,2127,1,Better,1
+478,50,No,Human Resources,3,Bachelor,Medical,Low,Medium,Married,18200,1,Better,32
+479,25,No,Sales,13,Below College,Medical,Medium,High,Married,2096,1,Better,7
+480,24,Yes,Research & Development,7,Bachelor,Life Sciences,Low,High,Married,2886,1,Better,6
+481,30,Yes,Sales,12,Master,Life Sciences,Medium,Low,Married,2033,1,Best,1
+482,34,No,Research & Development,1,College,Life Sciences,Medium,Very High,Married,3622,1,Better,6
+483,31,Yes,Sales,13,Master,Medical,Medium,Low,Divorced,4233,2,Bad,3
+484,35,No,Research & Development,25,College,Other,Low,Very High,Single,3681,4,Better,3
+485,31,No,Sales,6,Master,Medical,Low,Very High,Divorced,5460,4,Best,7
+486,27,No,Research & Development,6,Master,Medical,Low,High,Divorced,2187,0,Good,5
+487,37,No,Sales,2,Bachelor,Marketing,Very High,High,Married,9602,4,Good,3
+488,20,No,Research & Development,1,Bachelor,Life Sciences,Very High,Medium,Single,2836,1,Best,1
+489,42,No,Research & Development,2,Master,Life Sciences,High,Very High,Married,4089,1,Better,10
+490,43,No,Research & Development,6,Master,Other,Medium,Very High,Divorced,16627,4,Good,1
+491,38,No,Research & Development,1,Below College,Life Sciences,High,Low,Single,2619,3,Good,0
+492,43,No,Research & Development,9,Doctor,Medical,Very High,High,Divorced,5679,3,Better,8
+493,48,No,Research & Development,1,Master,Life Sciences,Very High,Low,Married,15402,7,Bad,3
+494,44,No,Human Resources,1,Master,Life Sciences,Low,High,Single,5985,4,Best,2
+495,34,No,Sales,14,Bachelor,Technical Degree,High,High,Divorced,2579,1,Better,8
+496,27,Yes,Sales,2,Below College,Marketing,High,Low,Divorced,3041,0,Better,4
+497,21,No,Sales,22,Below College,Technical Degree,High,High,Single,3447,1,Better,3
+498,44,No,Research & Development,3,Master,Other,Very High,Very High,Married,19513,4,Best,2
+499,22,No,Research & Development,6,Below College,Medical,Low,High,Married,2773,0,Better,2
+500,33,No,Sales,8,Master,Marketing,High,High,Divorced,7104,0,Better,5
+501,32,No,Research & Development,9,Master,Life Sciences,Low,Very High,Married,6322,1,Good,6
+502,30,No,Research & Development,3,Bachelor,Medical,High,High,Divorced,2083,1,Better,1
+503,53,No,Sales,1,Below College,Medical,Very High,Low,Single,8381,7,Best,14
+504,34,No,Research & Development,1,Doctor,Life Sciences,Medium,Very High,Married,2691,1,Good,10
+505,45,Yes,Sales,26,Master,Life Sciences,Low,Low,Married,4286,2,Better,1
+506,26,No,Research & Development,6,Bachelor,Life Sciences,High,Very High,Married,2659,1,Better,3
+507,37,No,Research & Development,3,Bachelor,Other,High,High,Married,9434,1,Better,10
+508,29,No,Sales,3,College,Medical,Medium,High,Married,5561,1,Good,6
+509,35,No,Research & Development,6,Master,Life Sciences,Medium,Very High,Single,6646,1,Better,17
+510,33,No,Research & Development,6,Bachelor,Life Sciences,High,Very High,Divorced,7725,3,Bad,13
+511,54,No,Human Resources,19,Master,Medical,High,Medium,Married,10725,2,Best,9
+512,36,No,Research & Development,9,College,Medical,Medium,Medium,Divorced,8847,2,Better,3
+513,27,No,Research & Development,3,Master,Medical,Low,Very High,Single,2045,0,Better,4
+514,20,Yes,Research & Development,10,Below College,Medical,Very High,High,Single,1009,1,Better,1
+515,33,Yes,Research & Development,3,Bachelor,Life Sciences,Low,Low,Single,3348,1,Better,10
+516,35,No,Research & Development,3,Bachelor,Life Sciences,High,High,Married,1281,1,Better,1
+517,23,No,Research & Development,4,Bachelor,Medical,Low,Low,Married,2819,2,Best,3
+518,25,No,Sales,8,Bachelor,Life Sciences,Very High,Medium,Married,4851,0,Better,3
+519,38,No,Sales,7,Master,Marketing,Very High,Very High,Single,4028,0,Better,7
+520,29,No,Research & Development,1,Master,Life Sciences,Medium,Very High,Divorced,2720,1,Better,10
+521,48,No,Sales,2,Below College,Marketing,Medium,Medium,Married,8120,3,Better,2
+522,27,No,Sales,3,Below College,Medical,Very High,Very High,Divorced,4647,1,Better,6
+523,37,No,Research & Development,10,College,Life Sciences,Very High,Very High,Single,4680,3,Better,1
+524,50,No,Research & Development,28,Below College,Medical,Very High,High,Married,3221,1,Better,20
+525,34,No,Research & Development,9,Bachelor,Medical,Very High,Medium,Single,8621,1,Best,8
+526,24,Yes,Sales,3,College,Life Sciences,Low,High,Single,4577,9,Better,2
+527,39,No,Research & Development,2,Master,Technical Degree,Very High,High,Single,4553,1,Better,20
+528,32,No,Sales,10,Bachelor,Marketing,Very High,Very High,Single,5396,1,Good,10
+529,50,Yes,Sales,8,College,Technical Degree,Medium,High,Married,6796,3,Better,4
+530,38,No,Research & Development,1,Master,Life Sciences,Medium,Very High,Single,7625,0,Good,9
+531,27,No,Research & Development,1,College,Life Sciences,High,Low,Married,7412,1,Better,9
+532,32,No,Research & Development,3,College,Life Sciences,High,Very High,Single,11159,3,Better,7
+533,47,No,Sales,14,Master,Marketing,Very High,Low,Single,4960,2,Better,7
+534,40,No,Sales,5,Master,Life Sciences,Very High,Low,Married,10475,5,Better,18
+535,53,No,Research & Development,7,Bachelor,Life Sciences,High,High,Married,14814,3,Better,5
+536,41,No,Human Resources,10,Master,Human Resources,Medium,Very High,Divorced,19141,3,Good,21
+537,60,No,Sales,16,Master,Marketing,Low,Low,Single,5405,8,Better,2
+538,27,No,Research & Development,10,College,Life Sciences,Very High,Low,Divorced,8793,1,Good,9
+539,41,No,Human Resources,1,Bachelor,Human Resources,Very High,High,Married,19189,1,Better,22
+540,50,No,Sales,8,Master,Marketing,Very High,Medium,Married,3875,7,Better,2
+541,28,Yes,Research & Development,1,College,Life Sciences,Low,Medium,Single,2216,7,Better,7
+542,36,No,Research & Development,8,Bachelor,Life Sciences,Low,Low,Married,11713,9,Better,8
+543,38,No,Research & Development,1,Bachelor,Life Sciences,High,High,Single,7861,4,Best,1
+544,44,No,Research & Development,24,Bachelor,Medical,Low,High,Single,3708,2,Better,5
+545,47,No,Sales,3,Bachelor,Medical,Very High,High,Divorced,13770,9,Good,22
+546,30,No,Sales,27,Doctor,Marketing,High,Very High,Divorced,5304,7,Good,8
+547,29,No,Sales,10,Bachelor,Life Sciences,High,High,Single,2642,1,Better,1
+548,42,Yes,Research & Development,19,Bachelor,Medical,High,High,Divorced,2759,6,Better,2
+549,43,No,Sales,15,Bachelor,Life Sciences,Very High,Very High,Married,6804,3,Better,2
+550,34,No,Research & Development,8,College,Medical,Medium,High,Single,6142,3,Better,5
+551,23,No,Research & Development,9,Below College,Medical,Medium,Low,Married,2500,1,Best,4
+552,39,No,Human Resources,3,Bachelor,Human Resources,High,Medium,Married,6389,9,Bad,8
+553,56,No,Research & Development,9,Bachelor,Medical,High,Very High,Married,11103,7,Good,10
+554,40,No,Research & Development,2,Below College,Medical,Very High,Very High,Single,2342,0,Good,4
+555,27,No,Research & Development,7,Bachelor,Medical,Very High,Low,Single,6811,8,Bad,7
+556,29,No,Sales,10,Bachelor,Marketing,Very High,Medium,Divorced,2297,1,Better,2
+557,53,No,Research & Development,6,Bachelor,Life Sciences,Very High,Very High,Single,2450,2,Better,2
+558,35,No,Research & Development,2,Master,Life Sciences,Very High,Low,Divorced,5093,2,Best,1
+559,32,No,Research & Development,24,Master,Life Sciences,Low,Very High,Married,5309,1,Better,10
+560,38,No,Research & Development,2,Doctor,Medical,Very High,High,Married,3057,6,Bad,1
+561,34,No,Research & Development,8,Doctor,Life Sciences,Medium,Low,Divorced,5121,3,Better,0
+562,52,No,Sales,3,Master,Marketing,High,Low,Married,16856,1,Best,34
+563,33,Yes,Research & Development,1,Master,Other,Very High,Very High,Single,2686,1,Good,10
+564,25,No,Sales,26,Below College,Medical,High,Very High,Single,6180,1,Good,6
+565,45,No,Sales,2,College,Technical Degree,Medium,High,Single,6632,0,Better,8
+566,23,No,Research & Development,10,Below College,Medical,Low,High,Single,3505,1,Better,2
+567,47,Yes,Sales,27,College,Life Sciences,Medium,High,Single,6397,4,Better,5
+568,34,No,Sales,2,Bachelor,Other,Very High,Very High,Single,6274,1,Better,6
+569,55,Yes,Research & Development,2,Bachelor,Medical,Very High,Low,Married,19859,5,Better,5
+570,36,No,Sales,8,Master,Life Sciences,Low,Low,Single,7587,1,Better,10
+571,52,No,Research & Development,19,Master,Medical,Very High,Very High,Married,4258,0,Better,4
+572,26,No,Research & Development,1,College,Life Sciences,Low,Very High,Divorced,4364,3,Better,2
+573,29,No,Research & Development,27,Bachelor,Medical,Medium,High,Married,4335,4,Good,8
+574,26,Yes,Sales,8,Bachelor,Technical Degree,Very High,Low,Single,5326,6,Good,4
+575,34,No,Research & Development,1,Master,Life Sciences,Medium,Very High,Single,3280,2,Better,4
+576,54,No,Research & Development,19,Master,Medical,Very High,Low,Divorced,5485,9,Better,5
+577,27,No,Sales,8,Below College,Marketing,High,Very High,Married,4342,0,Better,4
+578,37,No,Research & Development,10,Below College,Life Sciences,Very High,Low,Divorced,2782,0,Good,5
+579,38,No,Research & Development,2,Master,Life Sciences,Low,Low,Single,5980,6,Better,15
+580,34,No,Research & Development,2,Master,Medical,High,Low,Single,4381,1,Better,6
+581,35,No,Sales,8,Master,Life Sciences,Low,Very High,Married,2572,1,Good,3
+582,30,No,Research & Development,1,Bachelor,Life Sciences,Very High,High,Married,3833,3,Better,2
+583,40,No,Research & Development,2,College,Medical,High,Medium,Married,4244,1,Better,8
+584,34,No,Sales,8,College,Life Sciences,High,Low,Married,6500,5,Better,3
+585,42,No,Research & Development,8,Bachelor,Life Sciences,Medium,Very High,Divorced,18430,1,Good,24
+586,23,Yes,Research & Development,6,Bachelor,Life Sciences,High,Low,Married,1601,1,Better,0
+587,24,No,Research & Development,9,Bachelor,Life Sciences,High,Medium,Divorced,2694,1,Better,1
+588,52,No,Research & Development,11,Master,Life Sciences,Very High,High,Married,3149,8,Better,5
+589,50,No,Research & Development,2,Bachelor,Medical,High,High,Married,17639,5,Better,4
+590,29,Yes,Research & Development,1,College,Life Sciences,Medium,Low,Married,2319,1,Better,1
+591,33,No,Research & Development,7,Bachelor,Medical,High,High,Married,11691,0,Best,13
+592,33,Yes,Sales,16,Bachelor,Marketing,Low,Low,Single,5324,5,Better,3
+593,47,No,Research & Development,2,College,Other,High,Very High,Married,16752,1,Good,26
+594,36,No,Research & Development,1,Bachelor,Other,High,Medium,Married,5228,0,Better,9
+595,29,No,Research & Development,23,College,Life Sciences,High,High,Married,2700,1,Better,10
+596,58,Yes,Research & Development,2,Master,Life Sciences,Very High,Medium,Single,19246,7,Better,31
+597,35,No,Research & Development,1,Master,Life Sciences,Very High,High,Single,2506,3,Better,2
+598,42,No,Research & Development,1,College,Life Sciences,Very High,Very High,Married,6062,9,Better,4
+599,28,Yes,Research & Development,2,Master,Medical,High,High,Single,4382,6,Good,2
+600,36,No,Human Resources,13,Bachelor,Human Resources,High,Medium,Married,2143,4,Better,5
+601,32,No,Research & Development,4,Bachelor,Life Sciences,High,High,Married,6162,1,Better,14
+602,40,No,Research & Development,16,Master,Medical,Low,High,Single,5094,6,Better,1
+603,30,No,Research & Development,2,Bachelor,Medical,High,Very High,Single,6877,5,Good,0
+604,45,No,Research & Development,2,Bachelor,Life Sciences,Medium,High,Single,2274,1,Better,1
+605,42,No,Research & Development,29,Bachelor,Life Sciences,Medium,Medium,Married,4434,1,Good,9
+606,38,No,Research & Development,12,Bachelor,Life Sciences,Low,Low,Divorced,6288,2,Good,4
+607,34,No,Research & Development,16,Master,Life Sciences,High,Very High,Single,2553,1,Better,5
+608,49,Yes,Sales,11,Bachelor,Marketing,High,Very High,Married,7654,1,Best,9
+609,55,Yes,Sales,2,Below College,Medical,High,Very High,Single,5160,4,Good,9
+610,43,No,Research & Development,14,College,Life Sciences,Medium,Low,Married,17159,6,Better,4
+611,27,No,Research & Development,5,Below College,Technical Degree,High,Very High,Divorced,12808,1,Better,9
+612,35,No,Research & Development,7,Bachelor,Other,High,High,Single,10221,3,Best,8
+613,28,No,Sales,2,Master,Marketing,Medium,Medium,Married,4779,1,Better,8
+614,34,No,Human Resources,3,College,Human Resources,High,Very High,Married,3737,0,Bad,3
+615,26,Yes,Research & Development,5,College,Medical,High,High,Married,2366,1,Better,8
+616,27,No,Research & Development,3,Bachelor,Medical,Very High,Very High,Married,1706,1,Good,0
+617,51,No,Sales,26,Master,Marketing,Low,High,Married,16307,2,Good,20
+618,44,No,Research & Development,4,Bachelor,Medical,Very High,Medium,Single,5933,9,Good,5
+619,25,No,Research & Development,2,Below College,Medical,Low,Low,Single,3424,7,Good,4
+620,33,No,Sales,1,Bachelor,Medical,Low,Low,Divorced,4037,1,Better,9
+621,35,No,Research & Development,27,Below College,Medical,High,Low,Single,2559,1,Good,6
+622,36,No,Sales,1,College,Life Sciences,Medium,Very High,Married,6201,1,Good,18
+623,32,No,Sales,13,Master,Life Sciences,Medium,Very High,Divorced,4403,2,Good,5
+624,30,No,Research & Development,5,Master,Life Sciences,Medium,Very High,Divorced,3761,9,Good,5
+625,53,No,Sales,7,College,Marketing,Low,Very High,Married,10934,7,Better,5
+626,45,No,Sales,9,Bachelor,Marketing,Very High,Low,Divorced,10761,4,Better,5
+627,32,No,Research & Development,8,College,Medical,High,High,Married,5175,5,Good,5
+628,52,No,Research & Development,25,Master,Medical,High,Very High,Married,13826,3,Better,9
+629,37,No,Sales,16,Master,Marketing,Very High,High,Divorced,6334,4,Better,1
+630,28,No,Human Resources,8,College,Medical,Medium,Very High,Divorced,4936,1,Better,5
+631,22,No,Research & Development,1,College,Life Sciences,Very High,Very High,Married,4775,6,Bad,2
+632,44,No,Research & Development,8,Master,Life Sciences,Low,Very High,Married,2818,2,Good,3
+633,42,No,Research & Development,2,Below College,Medical,Medium,Very High,Single,2515,5,Better,2
+634,36,No,Human Resources,8,Bachelor,Life Sciences,Low,Low,Married,2342,0,Better,5
+635,25,No,Sales,3,Below College,Other,High,Low,Married,4194,1,Better,5
+636,35,No,Research & Development,9,Bachelor,Life Sciences,Very High,High,Married,10685,1,Better,17
+637,35,Yes,Research & Development,25,Master,Life Sciences,Very High,Medium,Divorced,2022,1,Good,10
+638,32,No,Research & Development,1,Bachelor,Life Sciences,Very High,Very High,Divorced,2314,0,Better,3
+639,25,No,Sales,4,Below College,Marketing,High,Low,Married,4256,1,Best,5
+640,49,No,Research & Development,1,Bachelor,Technical Degree,High,Low,Married,3580,2,Better,4
+641,24,No,Research & Development,4,Below College,Life Sciences,Low,Very High,Married,3162,0,Good,5
+642,32,No,Sales,5,College,Life Sciences,Medium,Medium,Married,6524,1,Better,10
+643,38,No,Sales,9,Bachelor,Marketing,Medium,Medium,Married,2899,0,Better,2
+644,42,No,Research & Development,3,Bachelor,Life Sciences,High,Very High,Married,5231,2,Good,5
+645,31,No,Research & Development,11,Master,Life Sciences,Very High,Very High,Married,2356,3,Better,6
+646,29,Yes,Sales,1,Bachelor,Medical,Medium,High,Divorced,2800,6,Better,3
+647,53,No,Sales,8,Bachelor,Marketing,Low,Very High,Married,11836,5,Better,2
+648,35,No,Research & Development,25,Bachelor,Technical Degree,Very High,Medium,Married,10903,3,Better,13
+649,37,No,Sales,21,College,Medical,High,Very High,Married,2973,5,Better,5
+650,53,No,Research & Development,23,Master,Life Sciences,Very High,Very High,Single,14275,6,Better,12
+651,43,No,Research & Development,1,Bachelor,Life Sciences,Very High,Very High,Married,5562,4,Good,5
+652,47,No,Sales,2,College,Marketing,High,Very High,Married,4537,0,Better,7
+653,37,No,Sales,19,College,Medical,Low,Medium,Single,7642,1,Better,10
+654,50,No,Research & Development,2,Master,Life Sciences,Low,Low,Divorced,17924,1,Better,31
+655,39,No,Human Resources,2,Bachelor,Life Sciences,Very High,Very High,Married,5204,8,Better,5
+656,33,No,Human Resources,3,College,Human Resources,Very High,Medium,Divorced,2277,3,Best,4
+657,32,Yes,Research & Development,25,Master,Life Sciences,Low,Very High,Single,2795,1,Bad,1
+658,29,No,Research & Development,7,Below College,Medical,Low,Very High,Divorced,2532,6,Better,4
+659,44,No,Research & Development,9,College,Life Sciences,Medium,Low,Married,2559,1,Better,8
+660,28,No,Sales,5,Master,Medical,Low,Very High,Single,4908,1,Better,4
+661,58,Yes,Research & Development,2,Below College,Life Sciences,Very High,Very High,Divorced,2380,9,Good,1
+662,43,No,Research & Development,8,Bachelor,Life Sciences,Low,Medium,Divorced,4765,4,Best,1
+663,20,Yes,Sales,2,Bachelor,Medical,High,High,Single,2044,1,Good,2
+664,21,Yes,Research & Development,18,Below College,Other,Very High,Very High,Single,2693,1,Good,1
+665,36,No,Research & Development,14,Below College,Life Sciences,High,Very High,Married,6586,0,Good,16
+666,47,No,Sales,2,Master,Life Sciences,Very High,Very High,Single,3294,1,Good,3
+667,22,Yes,Research & Development,3,Below College,Life Sciences,Medium,High,Married,4171,0,Best,3
+668,41,Yes,Research & Development,2,Master,Life Sciences,Medium,Very High,Divorced,2778,4,Good,7
+669,28,No,Research & Development,9,Bachelor,Medical,High,High,Divorced,2377,5,Better,2
+670,39,Yes,Research & Development,6,Bachelor,Medical,Very High,Low,Married,2404,7,Bad,2
+671,27,No,Research & Development,4,Bachelor,Life Sciences,Medium,High,Single,2318,1,Better,1
+672,34,No,Research & Development,10,Bachelor,Life Sciences,Medium,Medium,Divorced,2008,1,Better,1
+673,42,No,Sales,14,College,Medical,High,High,Single,6244,7,Better,5
+674,33,No,Research & Development,1,Master,Other,High,Low,Single,2799,3,Better,3
+675,58,No,Research & Development,5,Bachelor,Technical Degree,High,Medium,Divorced,10552,2,Better,6
+676,31,No,Sales,7,Master,Life Sciences,Medium,High,Married,2329,3,Best,7
+677,35,No,Research & Development,21,Below College,Life Sciences,Very High,Very High,Married,4014,1,Bad,10
+678,49,No,Research & Development,8,College,Other,Low,Medium,Married,7403,4,Good,26
+679,48,No,Research & Development,20,Master,Medical,Very High,High,Married,2259,4,Good,0
+680,31,No,Sales,20,College,Marketing,Very High,High,Married,6932,1,Good,9
+681,36,No,Research & Development,7,Master,Other,Medium,Very High,Single,4678,2,Better,6
+682,38,No,Research & Development,1,Bachelor,Technical Degree,Very High,Low,Married,13582,1,Better,15
+683,32,No,Research & Development,1,Bachelor,Life Sciences,High,Medium,Married,2332,6,Better,3
+684,25,Yes,Sales,19,College,Marketing,High,Medium,Married,2413,1,Better,1
+685,40,No,Sales,10,Master,Marketing,Low,Medium,Divorced,9705,2,Good,1
+686,26,No,Sales,1,Bachelor,Medical,High,Low,Single,4294,1,Better,7
+687,41,No,Research & Development,6,Bachelor,Medical,Very High,Low,Single,4721,2,Better,18
+688,36,No,Research & Development,2,Master,Medical,High,High,Single,2519,4,Better,11
+689,19,Yes,Sales,21,Bachelor,Other,Very High,Medium,Single,2121,1,Best,1
+690,20,Yes,Research & Development,4,Bachelor,Technical Degree,Low,Low,Single,2973,1,Better,1
+691,31,No,Research & Development,12,Bachelor,Medical,Very High,Very High,Married,5855,0,Bad,9
+692,40,No,Research & Development,9,Master,Medical,Very High,Medium,Divorced,3617,8,Better,1
+693,32,No,Research & Development,3,Master,Medical,High,Low,Married,6725,1,Best,8
+694,36,Yes,Sales,3,Below College,Life Sciences,High,Very High,Married,10325,1,Better,16
+695,33,No,Research & Development,1,Bachelor,Life Sciences,Medium,Very High,Single,6949,0,Better,5
+696,37,Yes,Sales,1,Master,Life Sciences,Low,High,Married,10609,5,Bad,14
+697,45,No,Research & Development,4,College,Life Sciences,High,Medium,Married,4447,1,Good,9
+698,29,No,Sales,20,Bachelor,Technical Degree,High,Very High,Married,2157,1,Better,3
+699,35,No,Sales,18,Bachelor,Medical,High,High,Married,4601,1,Better,5
+700,52,No,Research & Development,1,College,Life Sciences,Very High,Very High,Married,17099,2,Good,9
+701,58,Yes,Research & Development,2,Bachelor,Technical Degree,Very High,High,Single,2479,4,Better,1
+702,53,No,Sales,2,College,Medical,High,High,Divorced,14852,6,Best,17
+703,30,No,Sales,8,College,Other,High,High,Divorced,7264,5,Best,8
+704,38,No,Sales,10,Bachelor,Technical Degree,High,Very High,Single,5666,1,Better,5
+705,35,No,Sales,3,Master,Life Sciences,Very High,Very High,Divorced,7823,6,Better,10
+706,39,No,Sales,2,Doctor,Life Sciences,Low,High,Single,7880,0,Better,8
+707,40,Yes,Sales,24,Bachelor,Life Sciences,Medium,Medium,Single,13194,4,Good,1
+708,47,No,Research & Development,16,Master,Medical,High,High,Divorced,5067,1,Best,19
+709,36,No,Sales,8,Master,Technical Degree,Low,Very High,Divorced,5079,4,Better,7
+710,31,Yes,Research & Development,9,College,Medical,High,Low,Single,2321,0,Better,3
+711,33,No,Sales,17,Bachelor,Life Sciences,Very High,High,Single,17444,1,Better,10
+712,29,Yes,Research & Development,10,Bachelor,Life Sciences,Very High,Low,Single,2404,6,Better,0
+713,33,No,Research & Development,13,Below College,Life Sciences,Medium,Very High,Single,3452,3,Better,3
+714,45,No,Research & Development,1,Master,Medical,Very High,Very High,Divorced,2270,3,Better,5
+715,50,No,Research & Development,1,College,Medical,Very High,Very High,Divorced,17399,9,Good,5
+716,33,No,Research & Development,1,Master,Other,High,Medium,Married,5488,1,Better,6
+717,41,No,Research & Development,9,Bachelor,Medical,Low,High,Divorced,19419,2,Best,18
+718,27,No,Research & Development,16,Master,Technical Degree,High,Medium,Married,2811,9,Better,2
+719,45,No,Research & Development,23,College,Life Sciences,Very High,Low,Married,3633,1,Better,9
+720,47,No,Sales,4,College,Life Sciences,Very High,Very High,Single,4163,1,Better,9
+721,30,Yes,Research & Development,22,Bachelor,Life Sciences,Low,High,Married,2132,4,Better,5
+722,50,No,Research & Development,24,Bachelor,Life Sciences,Very High,High,Married,13973,3,Better,12
+723,38,No,Research & Development,10,Below College,Medical,High,High,Married,2684,0,Good,2
+724,46,No,Research & Development,7,College,Medical,Very High,High,Divorced,10845,6,Better,8
+725,24,No,Research & Development,17,Below College,Medical,Very High,High,Divorced,4377,1,Better,4
+726,35,Yes,Research & Development,14,Master,Other,High,Medium,Divorced,3743,1,Bad,4
+727,31,No,Research & Development,1,Below College,Life Sciences,High,Low,Married,4148,1,Better,4
+728,18,No,Research & Development,5,College,Life Sciences,Medium,Very High,Single,1051,1,Better,0
+729,54,No,Research & Development,17,Bachelor,Technical Degree,High,High,Married,10739,8,Better,10
+730,35,No,Research & Development,25,Master,Medical,High,High,Divorced,10388,1,Good,16
+731,30,No,Research & Development,8,College,Life Sciences,Medium,Low,Married,11416,0,Good,8
+732,20,Yes,Research & Development,11,Bachelor,Medical,Very High,Low,Single,2600,1,Better,1
+733,30,Yes,Research & Development,5,Bachelor,Medical,Medium,Medium,Single,2422,0,Better,3
+734,26,No,Research & Development,2,College,Medical,Very High,Very High,Married,5472,1,Better,8
+735,22,No,Research & Development,8,Below College,Life Sciences,Medium,Low,Married,2451,1,Good,4
+736,48,No,Research & Development,6,Bachelor,Life Sciences,Low,High,Single,4240,2,Better,2
+737,48,No,Research & Development,4,Master,Life Sciences,High,High,Single,10999,7,Better,15
+738,41,No,Research & Development,7,College,Medical,Very High,High,Single,5003,6,Better,2
+739,39,No,Research & Development,1,Below College,Life Sciences,Very High,Very High,Married,12742,1,Better,21
+740,27,No,Research & Development,2,Master,Life Sciences,Low,Very High,Married,4227,0,Better,3
+741,35,No,Research & Development,10,Bachelor,Other,Medium,Very High,Divorced,3917,1,Good,3
+742,42,No,Sales,5,College,Marketing,Very High,High,Married,18303,6,Best,1
+743,50,No,Research & Development,9,Bachelor,Life Sciences,Low,Very High,Married,2380,4,Better,1
+744,59,No,Research & Development,2,Bachelor,Life Sciences,High,Very High,Single,13726,3,Better,5
+745,37,Yes,Research & Development,11,College,Medical,Low,Medium,Married,4777,5,Bad,1
+746,55,No,Research & Development,18,Master,Medical,High,Medium,Married,6385,3,Better,8
+747,41,No,Research & Development,7,Below College,Life Sciences,Medium,High,Divorced,19973,1,Better,21
+748,38,No,Sales,3,Master,Life Sciences,Medium,Very High,Single,6861,8,Better,1
+749,26,Yes,Sales,29,College,Medical,Medium,Low,Single,4969,8,Better,2
+750,52,Yes,Sales,2,Below College,Marketing,Low,Very High,Married,19845,1,Better,32
+751,44,No,Sales,28,Bachelor,Medical,Very High,Very High,Married,13320,3,Better,12
+752,50,No,Sales,1,Bachelor,Life Sciences,Very High,High,Married,6347,0,Better,18
+753,36,Yes,Research & Development,16,Master,Life Sciences,High,Low,Single,2743,1,Better,17
+754,39,No,Research & Development,22,Bachelor,Medical,Very High,Low,Single,10880,1,Better,21
+755,33,No,Sales,8,Below College,Life Sciences,Medium,Very High,Single,2342,0,Good,2
+756,45,No,Sales,11,College,Life Sciences,Very High,Very High,Married,17650,3,Best,9
+757,32,No,Research & Development,29,Master,Medical,Very High,High,Single,4025,9,Better,8
+758,34,No,Sales,1,Master,Marketing,Medium,Very High,Divorced,9725,0,Good,15
+759,59,No,Sales,1,College,Technical Degree,Medium,Very High,Married,11904,3,Bad,6
+760,45,No,Human Resources,24,Master,Medical,Medium,Medium,Single,2177,1,Better,6
+761,53,No,Sales,2,Bachelor,Marketing,High,Medium,Married,7525,2,Better,15
+762,36,Yes,Research & Development,15,Bachelor,Other,Low,High,Divorced,4834,7,Good,1
+763,26,Yes,Research & Development,2,Bachelor,Life Sciences,Low,Low,Married,2042,6,Better,3
+764,34,No,Sales,10,Master,Life Sciences,High,High,Married,2220,1,Better,1
+765,28,No,Sales,10,Below College,Medical,Very High,Medium,Married,1052,1,Better,1
+766,38,No,Research & Development,3,Master,Other,High,High,Married,2821,3,Better,2
+767,50,No,Research & Development,2,Master,Medical,Medium,High,Married,19237,2,Good,8
+768,37,No,Research & Development,3,Bachelor,Other,Very High,Medium,Single,4107,3,Good,4
+769,40,No,Sales,26,Bachelor,Marketing,High,Low,Married,8396,1,Good,7
+770,26,No,Research & Development,1,Below College,Medical,Low,High,Divorced,2007,1,Better,5
+771,46,No,Research & Development,1,Master,Medical,Very High,Very High,Divorced,19627,9,Better,2
+772,54,No,Sales,2,Master,Life Sciences,High,High,Married,10686,6,Better,9
+773,56,No,Research & Development,9,Bachelor,Medical,Low,High,Married,2942,2,Better,5
+774,36,No,Research & Development,12,Doctor,Medical,Very High,Very High,Single,8858,0,Good,14
+775,55,No,Research & Development,2,Below College,Medical,High,Low,Single,16756,7,Best,9
+776,43,No,Sales,25,Bachelor,Medical,High,Very High,Divorced,10798,5,Better,1
+777,20,Yes,Sales,9,Bachelor,Marketing,Very High,Very High,Single,2323,1,Better,2
+778,21,Yes,Research & Development,10,Bachelor,Life Sciences,High,Low,Single,1416,1,Good,1
+779,46,No,Research & Development,8,Master,Life Sciences,Very High,Low,Divorced,4615,8,Better,16
+780,51,Yes,Research & Development,4,Master,Life Sciences,Low,High,Married,2461,9,Best,10
+781,28,Yes,Research & Development,24,College,Technical Degree,Medium,Low,Single,8722,1,Good,10
+782,26,No,Research & Development,1,College,Medical,Low,Low,Married,3955,1,Better,5
+783,30,No,Research & Development,20,Bachelor,Other,High,Low,Married,9957,0,Good,6
+784,41,No,Research & Development,7,College,Technical Degree,Medium,High,Married,3376,1,Better,10
+785,38,No,Research & Development,17,Below College,Life Sciences,High,High,Married,8823,0,Good,19
+786,40,No,Research & Development,20,Master,Technical Degree,Low,Very High,Married,10322,4,Better,11
+787,27,No,Research & Development,8,Doctor,Life Sciences,Low,High,Married,4621,1,Better,3
+788,55,No,Research & Development,2,Below College,Life Sciences,Very High,Medium,Married,10976,3,Better,3
+789,28,No,Research & Development,10,Bachelor,Other,High,High,Single,3660,3,Best,8
+790,44,Yes,Human Resources,1,College,Medical,Medium,Low,Married,10482,9,Better,20
+791,33,No,Research & Development,5,Bachelor,Life Sciences,Very High,Very High,Divorced,7119,4,Better,3
+792,35,Yes,Sales,4,Bachelor,Technical Degree,Very High,Low,Single,9582,0,Better,8
+793,33,Yes,Research & Development,29,Master,Medical,Low,High,Single,4508,1,Better,13
+794,28,No,Research & Development,15,College,Life Sciences,Low,High,Divorced,2207,1,Good,4
+795,34,No,Research & Development,3,Below College,Life Sciences,Low,Very High,Single,7756,0,Good,6
+796,37,No,Sales,10,Master,Life Sciences,Very High,Very High,Divorced,6694,2,Better,1
+797,25,Yes,Research & Development,4,Below College,Technical Degree,Very High,Very High,Married,3691,1,Best,7
+798,26,Yes,Research & Development,21,Bachelor,Medical,Low,High,Divorced,2377,1,Good,1
+799,33,Yes,Research & Development,25,Bachelor,Medical,Low,Medium,Single,2313,4,Better,2
+800,42,No,Research & Development,2,College,Medical,Very High,Low,Married,17665,0,Better,22
+801,28,Yes,Research & Development,1,Bachelor,Medical,Low,Medium,Divorced,2596,1,Better,1
+802,50,Yes,Sales,1,Master,Other,Very High,High,Single,4728,3,Better,0
+803,33,No,Sales,7,Bachelor,Life Sciences,Very High,Medium,Married,4302,0,Better,3
+804,34,No,Research & Development,3,Master,Life Sciences,High,Very High,Married,2979,3,Better,0
+805,48,No,Research & Development,1,Master,Medical,Low,Very High,Single,16885,2,Good,5
+806,45,No,Sales,9,Master,Life Sciences,Medium,High,Married,5593,1,Better,15
+807,52,No,Research & Development,7,Master,Life Sciences,Medium,Medium,Single,10445,7,Better,8
+808,38,No,Sales,10,Master,Marketing,High,High,Divorced,8740,0,Better,8
+809,29,No,Research & Development,28,Master,Life Sciences,High,Very High,Divorced,2514,4,Better,7
+810,28,No,Research & Development,3,Bachelor,Medical,Very High,Medium,Divorced,7655,0,Good,9
+811,46,No,Sales,3,Below College,Marketing,Low,High,Married,17465,3,Better,12
+812,38,No,Sales,2,College,Marketing,Very High,Medium,Single,7351,7,Better,1
+813,43,No,Research & Development,27,Bachelor,Life Sciences,High,Low,Married,10820,8,Better,8
+814,39,Yes,Research & Development,2,Bachelor,Life Sciences,Low,Very High,Divorced,12169,7,Better,18
+815,40,No,Research & Development,14,Bachelor,Medical,High,High,Single,19626,1,Best,20
+816,21,No,Research & Development,1,Below College,Technical Degree,Very High,Medium,Single,2070,1,Best,2
+817,39,No,Research & Development,9,Bachelor,Life Sciences,High,Medium,Single,6782,9,Good,5
+818,36,No,Research & Development,18,Master,Life Sciences,Low,Very High,Single,7779,2,Better,11
+819,31,No,Sales,20,Bachelor,Life Sciences,High,Very High,Married,2791,0,Better,2
+820,28,No,Research & Development,2,Below College,Life Sciences,Low,Medium,Married,3201,0,Bad,5
+821,35,No,Sales,11,College,Marketing,Very High,Very High,Divorced,4968,1,Better,5
+822,49,No,Sales,8,Master,Technical Degree,Very High,Medium,Married,13120,6,Better,9
+823,34,No,Research & Development,2,College,Life Sciences,Very High,High,Single,4033,2,Good,3
+824,29,No,Research & Development,10,Bachelor,Life Sciences,Very High,Medium,Divorced,3291,0,Good,7
+825,42,No,Research & Development,29,Bachelor,Medical,Medium,Very High,Single,4272,4,Better,1
+826,29,No,Research & Development,8,Below College,Medical,Medium,Very High,Married,5056,1,Good,10
+827,38,No,Human Resources,1,Bachelor,Human Resources,High,High,Married,2844,1,Best,7
+828,28,No,Research & Development,6,Bachelor,Life Sciences,High,High,Divorced,2703,1,Better,3
+829,18,Yes,Research & Development,8,Below College,Medical,High,High,Single,1904,1,Better,0
+830,33,Yes,Sales,9,Master,Marketing,Low,Low,Single,8224,0,Better,5
+831,41,No,Research & Development,12,Master,Life Sciences,Medium,Very High,Married,4766,3,Better,1
+832,31,Yes,Research & Development,15,Bachelor,Medical,High,High,Married,2610,1,Good,2
+833,37,No,Research & Development,25,College,Medical,High,Very High,Divorced,5731,7,Better,6
+834,27,No,Research & Development,6,Bachelor,Life Sciences,Very High,High,Married,2539,1,Better,4
+835,34,No,Sales,9,Below College,Life Sciences,Medium,High,Married,5714,1,Good,6
+836,35,No,Human Resources,8,Master,Technical Degree,High,High,Single,4323,1,Bad,5
+837,29,Yes,Sales,23,Below College,Life Sciences,Very High,Low,Married,7336,1,Bad,11
+838,40,No,Research & Development,9,Master,Medical,Medium,High,Single,13499,9,Good,18
+839,42,Yes,Sales,12,Bachelor,Life Sciences,High,Low,Single,13758,0,Good,21
+840,42,No,Sales,4,Master,Marketing,Medium,Low,Single,5155,7,Best,6
+841,35,No,Research & Development,1,Master,Medical,Very High,High,Married,2258,6,Better,8
+842,24,No,Research & Development,24,Bachelor,Medical,Very High,Medium,Single,3597,8,Better,4
+843,28,Yes,Research & Development,12,Below College,Life Sciences,High,Very High,Married,2515,1,Good,1
+844,26,No,Research & Development,3,Master,Medical,Low,Very High,Married,4420,1,Better,8
+845,30,No,Sales,10,Bachelor,Marketing,High,High,Married,6578,1,Better,10
+846,40,No,Research & Development,26,College,Medical,High,Very High,Married,4422,3,Bad,1
+847,35,No,Research & Development,2,Bachelor,Life Sciences,High,Medium,Divorced,10274,2,Best,7
+848,34,No,Research & Development,1,Bachelor,Medical,Very High,Low,Single,5343,0,Better,13
+849,35,No,Research & Development,4,Master,Other,Very High,Very High,Married,2376,1,Best,2
+850,43,Yes,Sales,9,Bachelor,Marketing,Low,High,Single,5346,8,Good,4
+851,32,No,Sales,2,Below College,Life Sciences,High,Low,Divorced,2827,1,Better,1
+852,56,No,Research & Development,4,Master,Technical Degree,Very High,Low,Divorced,19943,4,Better,5
+853,29,No,Research & Development,6,Below College,Medical,Medium,Very High,Married,3131,1,Better,10
+854,19,No,Research & Development,9,College,Life Sciences,High,Low,Single,2552,1,Better,1
+855,45,No,Research & Development,7,Bachelor,Medical,Low,High,Married,4477,4,Good,3
+856,37,No,Research & Development,1,Bachelor,Life Sciences,Very High,Very High,Married,6474,1,Good,14
+857,20,No,Research & Development,3,Bachelor,Life Sciences,Low,High,Single,3033,1,Good,2
+858,44,Yes,Research & Development,10,Master,Life Sciences,High,High,Single,2936,1,Better,6
+859,53,No,Research & Development,7,College,Medical,Very High,High,Divorced,18606,3,Better,7
+860,29,No,Research & Development,15,Below College,Life Sciences,Medium,Very High,Married,2168,0,Good,5
+861,22,Yes,Research & Development,3,Master,Life Sciences,High,Very High,Married,2853,0,Better,0
+862,46,No,Sales,2,Bachelor,Marketing,High,Low,Married,17048,8,Better,26
+863,44,No,Research & Development,17,Bachelor,Life Sciences,Very High,High,Single,2290,2,Better,0
+864,33,No,Human Resources,2,Bachelor,Human Resources,Medium,High,Married,3600,1,Better,5
+865,41,Yes,Research & Development,5,College,Life Sciences,Low,Low,Divorced,2107,6,Bad,1
+866,30,No,Sales,29,Master,Life Sciences,High,Low,Divorced,4115,8,Better,4
+867,40,No,Sales,2,Master,Medical,Medium,Medium,Married,4327,5,Better,0
+868,50,No,Research & Development,2,Bachelor,Medical,Very High,Low,Married,17856,2,Better,2
+869,28,No,Research & Development,19,Master,Medical,Very High,Low,Married,3196,1,Better,6
+870,46,No,Research & Development,15,College,Life Sciences,Very High,Medium,Married,19081,5,Better,4
+871,35,No,Sales,17,Master,Life Sciences,High,Low,Married,8966,3,Better,7
+872,24,Yes,Research & Development,17,College,Life Sciences,Very High,Medium,Married,2210,1,Bad,1
+873,33,No,Sales,25,Bachelor,Medical,Medium,High,Married,4539,1,Good,10
+874,36,No,Research & Development,6,Master,Life Sciences,High,High,Divorced,2741,1,Better,7
+875,30,No,Research & Development,7,Master,Life Sciences,High,High,Divorced,3491,1,Good,10
+876,44,No,Research & Development,29,Master,Other,Very High,Very High,Single,4541,1,Better,20
+877,20,No,Sales,21,Bachelor,Marketing,High,Very High,Single,2678,1,Better,2
+878,46,No,Research & Development,2,Master,Technical Degree,Very High,Very High,Divorced,7379,2,Good,6
+879,42,No,Human Resources,2,Doctor,Medical,Very High,Low,Married,6272,7,Best,4
+880,60,No,Sales,7,Master,Marketing,Medium,Very High,Divorced,5220,0,Better,11
+881,32,No,Research & Development,13,Bachelor,Other,High,Medium,Married,2743,1,Better,2
+882,32,No,Research & Development,2,College,Life Sciences,Very High,High,Single,4998,4,Better,8
+883,36,No,Research & Development,1,Bachelor,Technical Degree,High,Low,Divorced,10252,2,Better,7
+884,33,No,Research & Development,9,Bachelor,Medical,Low,Very High,Married,2781,0,Better,14
+885,40,No,Sales,10,Bachelor,Technical Degree,Medium,Medium,Divorced,6852,7,Best,5
+886,25,No,Sales,10,Master,Life Sciences,High,Very High,Single,4950,0,Better,4
+887,30,No,Research & Development,1,Bachelor,Medical,Very High,Medium,Married,3579,0,Better,11
+888,42,No,Research & Development,26,Doctor,Medical,Low,Low,Married,13191,3,Better,1
+889,35,No,Sales,8,College,Marketing,High,Very High,Married,10377,4,Good,13
+890,27,No,Research & Development,14,Bachelor,Life Sciences,Low,Low,Married,2235,1,Good,9
+891,54,No,Research & Development,1,Master,Life Sciences,Very High,High,Divorced,10502,7,Bad,5
+892,44,No,Research & Development,2,Below College,Life Sciences,Low,Very High,Married,2011,1,Better,10
+893,19,Yes,Research & Development,10,Bachelor,Medical,Low,Medium,Single,1859,1,Best,1
+894,29,No,Research & Development,1,Bachelor,Life Sciences,Low,Very High,Divorced,3760,1,Better,3
+895,54,No,Research & Development,3,Bachelor,Life Sciences,Very High,Very High,Married,17779,3,Better,10
+896,31,No,Research & Development,11,College,Medical,High,Low,Married,6833,1,Good,6
+897,31,No,Research & Development,24,Bachelor,Medical,High,Low,Single,6812,1,Better,10
+898,59,No,Sales,3,Bachelor,Life Sciences,High,Very High,Single,5171,5,Better,6
+899,43,No,Research & Development,3,Bachelor,Life Sciences,High,Very High,Married,19740,3,Better,8
+900,49,No,Research & Development,4,College,Medical,Low,High,Married,18711,2,Best,1
+901,36,No,Research & Development,3,Bachelor,Technical Degree,High,Medium,Married,3692,1,Good,11
+902,48,No,Research & Development,2,College,Technical Degree,Very High,Medium,Single,2559,5,Good,1
+903,27,No,Research & Development,4,College,Life Sciences,Low,High,Divorced,2517,1,Better,5
+904,29,No,Research & Development,7,Bachelor,Life Sciences,High,Very High,Divorced,6623,1,Better,6
+905,48,No,Research & Development,1,Bachelor,Life Sciences,Very High,Very High,Single,18265,6,Best,1
+906,29,No,Research & Development,1,Bachelor,Life Sciences,Very High,Very High,Divorced,16124,3,Good,7
+907,34,No,Research & Development,20,Bachelor,Technical Degree,High,High,Married,2585,0,Good,1
+908,44,No,Sales,5,Bachelor,Marketing,Medium,Medium,Married,18213,7,Better,22
+909,33,No,Sales,10,Doctor,Marketing,Very High,High,Divorced,8380,0,Better,9
+910,19,No,Research & Development,25,Bachelor,Life Sciences,Medium,Very High,Single,2994,1,Better,1
+911,23,No,Research & Development,1,College,Life Sciences,Very High,High,Married,1223,1,Better,1
+912,25,Yes,Sales,24,Below College,Life Sciences,High,Very High,Single,1118,1,Better,1
+913,26,No,Research & Development,4,College,Life Sciences,High,Very High,Single,2875,1,Good,8
+914,45,Yes,Sales,2,Bachelor,Marketing,Low,Medium,Single,18824,2,Better,24
+915,55,No,Research & Development,8,Below College,Medical,Very High,Medium,Divorced,13577,1,Better,33
+916,21,Yes,Research & Development,10,College,Life Sciences,Low,High,Single,2625,1,Bad,2
+917,46,No,Sales,4,College,Marketing,Very High,Medium,Married,18789,2,Better,11
+918,34,No,Sales,2,Bachelor,Marketing,High,Low,Single,4538,0,Better,3
+919,51,No,Sales,9,Bachelor,Life Sciences,Very High,Medium,Divorced,19847,4,Good,29
+920,59,No,Research & Development,18,Master,Medical,Very High,Very High,Single,10512,6,Good,9
+921,34,No,Research & Development,19,Bachelor,Medical,High,Medium,Divorced,4444,4,Best,11
+922,28,No,Research & Development,1,Master,Medical,Very High,High,Single,2154,0,Good,4
+923,44,No,Research & Development,4,College,Life Sciences,High,Low,Divorced,19190,1,Good,25
+924,34,No,Human Resources,11,Bachelor,Life Sciences,High,Medium,Married,4490,4,Best,10
+925,35,No,Research & Development,6,Below College,Life Sciences,High,High,Married,3506,0,Better,3
+926,42,No,Research & Development,7,Master,Medical,Medium,Medium,Married,2372,6,Better,1
+927,43,No,Sales,4,Master,Marketing,Very High,Very High,Single,10231,3,Best,21
+928,36,No,Research & Development,2,Master,Life Sciences,High,Medium,Single,5410,9,Better,16
+929,44,Yes,Research & Development,15,Bachelor,Medical,Low,Very High,Married,7978,1,Better,10
+930,28,No,Research & Development,2,Bachelor,Life Sciences,Very High,Very High,Married,3867,1,Better,2
+931,51,No,Research & Development,6,College,Medical,Medium,High,Single,2838,0,Good,7
+932,30,No,Research & Development,9,College,Medical,High,High,Single,4695,7,Better,8
+933,29,Yes,Research & Development,7,Bachelor,Technical Degree,Medium,High,Divorced,3339,3,Better,7
+934,28,No,Research & Development,1,Bachelor,Technical Degree,Very High,Low,Single,2080,2,Good,3
+935,25,No,Research & Development,1,Bachelor,Medical,Very High,Medium,Single,2096,1,Good,2
+936,32,No,Sales,8,Bachelor,Medical,High,Very High,Married,6209,1,Best,10
+937,45,No,Research & Development,25,Bachelor,Medical,Medium,Medium,Single,18061,3,Better,0
+938,39,No,Research & Development,13,Master,Medical,High,Medium,Divorced,17123,6,Better,19
+939,58,No,Research & Development,23,Master,Life Sciences,Low,High,Divorced,2372,1,Better,2
+940,32,Yes,Research & Development,7,College,Life Sciences,Very High,High,Married,4883,1,Better,10
+941,39,Yes,Research & Development,23,Bachelor,Medical,High,Low,Single,3904,0,Better,5
+942,30,No,Research & Development,6,Bachelor,Technical Degree,Low,Very High,Married,4627,0,Better,9
+943,36,No,Research & Development,10,Master,Technical Degree,Very High,High,Married,7094,3,Better,7
+944,46,No,Human Resources,1,College,Life Sciences,Very High,Low,Single,3423,6,Best,7
+945,28,No,Research & Development,1,Bachelor,Life Sciences,High,Very High,Married,6674,0,Better,9
+946,50,No,Research & Development,28,Bachelor,Life Sciences,Very High,Low,Married,16880,4,Better,3
+947,40,Yes,Sales,25,Master,Marketing,Very High,Medium,Single,9094,2,Better,5
+948,52,Yes,Sales,5,Bachelor,Life Sciences,Medium,Medium,Single,8446,9,Good,8
+949,30,No,Research & Development,17,Master,Medical,Medium,Low,Married,11916,1,Better,9
+950,39,No,Research & Development,18,College,Life Sciences,Low,High,Single,4534,0,Better,8
+951,31,No,Sales,2,Master,Life Sciences,Very High,High,Divorced,9852,1,Good,10
+952,41,No,Sales,10,College,Medical,High,Medium,Single,6151,1,Better,19
+953,31,Yes,Sales,1,Bachelor,Life Sciences,Very High,Medium,Single,2302,1,Best,3
+954,44,Yes,Research & Development,3,Bachelor,Life Sciences,Low,Low,Married,2362,4,Best,3
+955,42,No,Research & Development,2,Below College,Life Sciences,High,High,Married,17861,0,Good,20
+956,55,No,Research & Development,2,College,Medical,Very High,High,Married,19187,4,Better,19
+957,56,No,Human Resources,8,Master,Life Sciences,Very High,Medium,Single,19717,6,Better,7
+958,40,No,Research & Development,16,College,Life Sciences,High,High,Divorced,3544,9,Better,4
+959,34,No,Research & Development,9,Bachelor,Life Sciences,Very High,Very High,Divorced,8500,0,Good,9
+960,40,No,Research & Development,2,Bachelor,Life Sciences,High,Very High,Single,4661,1,Better,9
+961,41,No,Sales,1,Bachelor,Marketing,High,Low,Divorced,4103,0,Better,9
+962,35,No,Research & Development,4,Master,Life Sciences,High,High,Single,4249,1,Better,9
+963,51,No,Human Resources,5,Bachelor,Life Sciences,High,Medium,Divorced,14026,1,Better,33
+964,38,No,Sales,2,College,Life Sciences,Medium,Low,Divorced,6893,3,Better,7
+965,34,No,Sales,15,College,Medical,High,Low,Single,6125,1,Best,10
+966,25,No,Research & Development,19,Below College,Medical,Very High,Very High,Married,3669,3,Good,3
+967,58,Yes,Research & Development,7,Master,Medical,High,Low,Married,10008,7,Good,10
+968,40,No,Research & Development,1,Master,Life Sciences,Medium,Medium,Married,2387,3,Better,4
+969,36,No,Sales,7,Bachelor,Marketing,Low,Low,Married,4639,2,Good,15
+970,48,No,Research & Development,4,Bachelor,Life Sciences,Very High,Very High,Single,7898,1,Better,10
+971,27,No,Sales,11,Bachelor,Medical,High,Very High,Married,2534,8,Better,1
+972,51,No,Research & Development,11,College,Technical Degree,Very High,Medium,Single,13142,3,Good,5
+973,18,No,Research & Development,1,Bachelor,Life Sciences,Very High,Very High,Single,1611,1,Best,0
+974,35,No,Research & Development,1,Bachelor,Medical,Very High,Very High,Married,5363,0,Better,9
+975,27,No,Sales,2,Below College,Life Sciences,Very High,Very High,Single,5071,3,Better,6
+976,55,Yes,Sales,13,Master,Marketing,Low,High,Single,13695,6,Good,19
+977,56,No,Research & Development,23,Bachelor,Life Sciences,Very High,Medium,Married,13402,4,Better,19
+978,34,No,Research & Development,26,Below College,Technical Degree,Low,High,Divorced,2029,1,Better,5
+979,40,No,Research & Development,2,Below College,Medical,Medium,High,Divorced,6377,5,Better,12
+980,34,No,Research & Development,29,Bachelor,Medical,Medium,High,Married,5429,4,Better,8
+981,31,Yes,Sales,2,Bachelor,Life Sciences,High,Very High,Single,2785,7,Best,1
+982,35,Yes,Sales,18,Master,Marketing,Very High,High,Married,4614,0,Good,4
+983,38,No,Research & Development,7,Bachelor,Life Sciences,Very High,High,Divorced,2610,1,Better,4
+984,34,No,Research & Development,2,Master,Technical Degree,High,Very High,Single,6687,1,Best,14
+985,28,No,Sales,26,Bachelor,Life Sciences,High,Low,Married,4724,1,Better,5
+986,31,Yes,Research & Development,22,Master,Medical,Very High,High,Married,6179,1,Good,10
+987,39,No,Sales,21,Master,Life Sciences,Low,Very High,Married,6120,3,Best,5
+988,51,No,Sales,2,Bachelor,Marketing,Medium,Medium,Married,10596,2,Better,4
+989,41,No,Research & Development,22,Bachelor,Life Sciences,Very High,Very High,Divorced,5467,3,Good,6
+990,37,No,Research & Development,4,Below College,Life Sciences,High,High,Married,2996,7,Better,6
+991,33,No,Sales,5,Below College,Life Sciences,Medium,Very High,Married,9998,6,Best,5
+992,32,No,Sales,2,Below College,Marketing,High,Medium,Married,4078,0,Good,3
+993,39,No,Research & Development,25,College,Life Sciences,High,High,Married,10920,3,Better,6
+994,25,No,Sales,18,Below College,Life Sciences,Low,High,Married,6232,2,Good,3
+995,52,No,Research & Development,28,College,Medical,Very High,High,Married,13247,2,Good,5
+996,43,No,Research & Development,6,Bachelor,Medical,Low,High,Single,4081,1,Bad,20
+997,27,No,Sales,10,Bachelor,Marketing,Very High,Very High,Married,5769,1,Better,6
+998,27,Yes,Research & Development,17,Master,Life Sciences,Very High,High,Single,2394,1,Better,8
+999,26,No,Research & Development,2,Below College,Medical,Low,Very High,Single,3904,0,Better,4
+1000,42,No,Human Resources,10,Bachelor,Human Resources,High,Low,Married,16799,0,Better,20
+1001,52,No,Research & Development,8,Master,Other,High,Low,Married,2950,9,Bad,5
+1002,37,No,Research & Development,11,Bachelor,Medical,Low,High,Single,3629,4,Better,3
+1003,35,No,Research & Development,18,College,Life Sciences,High,Very High,Single,9362,2,Better,2
+1004,25,No,Research & Development,1,Bachelor,Technical Degree,Low,Very High,Married,3229,4,Good,3
+1005,26,No,Research & Development,7,Bachelor,Other,High,Low,Single,3578,0,Better,7
+1006,29,No,Human Resources,17,Bachelor,Other,Medium,Low,Single,7988,1,Good,10
+1007,49,Yes,Research & Development,28,College,Life Sciences,Low,Low,Single,4284,3,Better,4
+1008,29,Yes,Research & Development,14,Below College,Other,High,Very High,Single,7553,0,Better,8
+1009,54,No,Research & Development,1,Bachelor,Medical,Very High,Very High,Single,17328,6,Good,20
+1010,58,No,Research & Development,1,Bachelor,Medical,Very High,Low,Married,19701,3,Better,9
+1011,55,No,Research & Development,1,Master,Medical,Medium,Very High,Divorced,14732,2,Best,7
+1012,36,No,Sales,3,Master,Marketing,Low,Medium,Single,9278,3,Better,5
+1013,31,Yes,Sales,1,Master,Life Sciences,Medium,High,Single,1359,1,Better,1
+1014,30,No,Sales,7,Master,Marketing,Very High,Low,Divorced,4779,7,Better,3
+1015,31,No,Research & Development,8,Doctor,Life Sciences,Low,Medium,Single,16422,3,Best,3
+1016,34,No,Research & Development,1,Master,Other,Very High,Low,Divorced,2996,5,Better,4
+1017,31,Yes,Research & Development,8,Bachelor,Life Sciences,Low,Medium,Single,1261,1,Best,1
+1018,27,No,Research & Development,11,Below College,Life Sciences,Medium,Low,Married,2099,0,Best,5
+1019,36,No,Research & Development,4,Master,Life Sciences,Low,Very High,Single,5810,1,Good,10
+1020,36,No,Sales,16,Master,Marketing,High,Low,Married,5647,4,Good,3
+1021,47,No,Research & Development,1,Bachelor,Technical Degree,Low,Very High,Married,3420,7,Good,6
+1022,25,Yes,Sales,9,College,Life Sciences,Low,Low,Married,4400,3,Better,3
+1023,37,No,Research & Development,5,College,Technical Degree,High,High,Single,3500,0,Bad,6
+1024,56,No,Research & Development,1,College,Life Sciences,Low,Low,Married,2066,2,Best,3
+1025,47,No,Research & Development,2,Master,Medical,Low,High,Married,17169,3,Best,20
+1026,24,No,Sales,4,Below College,Medical,Very High,High,Married,4162,1,Better,5
+1027,32,No,Sales,7,Doctor,Marketing,Very High,Very High,Married,9204,4,Good,4
+1028,34,No,Research & Development,1,Bachelor,Life Sciences,Very High,Medium,Married,3294,5,Good,5
+1029,41,No,Research & Development,5,Doctor,Medical,Medium,High,Married,2127,2,Good,4
+1030,40,No,Research & Development,9,Master,Other,High,High,Divorced,3975,3,Best,8
+1031,31,No,Sales,8,College,Life Sciences,Low,Very High,Divorced,10793,1,Better,13
+1032,46,Yes,Sales,9,Bachelor,Marketing,Low,Very High,Divorced,10096,4,Best,7
+1033,39,Yes,Research & Development,2,Bachelor,Life Sciences,Low,Low,Single,3646,2,Best,1
+1034,31,Yes,Research & Development,1,Doctor,Life Sciences,High,Medium,Single,7446,1,Better,10
+1035,45,No,Research & Development,20,Bachelor,Medical,Medium,Low,Divorced,10851,2,Better,7
+1036,31,No,Human Resources,8,College,Medical,Very High,Medium,Single,2109,9,Better,3
+1037,31,Yes,Research & Development,2,Bachelor,Life Sciences,Medium,Very High,Married,3722,6,Bad,2
+1038,45,No,Research & Development,29,Bachelor,Technical Degree,Medium,Very High,Married,9380,4,Best,3
+1039,48,No,Sales,7,Bachelor,Marketing,High,Low,Divorced,5486,4,Better,2
+1040,34,Yes,Human Resources,9,Master,Technical Degree,Low,High,Married,2742,1,Better,2
+1041,40,No,Research & Development,8,Below College,Medical,Very High,Medium,Divorced,13757,2,Better,9
+1042,28,No,Sales,5,Bachelor,Medical,Very High,Low,Single,8463,0,Better,5
+1043,44,No,Research & Development,5,Bachelor,Life Sciences,High,High,Single,3162,3,Better,5
+1044,53,No,Research & Development,2,Bachelor,Medical,Very High,Medium,Single,16598,4,Good,9
+1045,49,No,Research & Development,5,Master,Technical Degree,Low,High,Married,6651,2,Good,3
+1046,40,No,Research & Development,2,Bachelor,Medical,High,High,Divorced,2345,2,Best,3
+1047,44,No,Research & Development,20,Bachelor,Life Sciences,Very High,Medium,Single,3420,1,Good,5
+1048,33,No,Sales,7,Bachelor,Medical,Very High,Low,Married,4373,0,Better,4
+1049,34,No,Sales,3,Bachelor,Other,Very High,Low,Single,4759,3,Better,13
+1050,30,No,Sales,16,Below College,Life Sciences,Very High,High,Married,5301,8,Good,2
+1051,42,No,Research & Development,9,College,Medical,Low,Very High,Single,3673,1,Better,12
+1052,44,No,Sales,1,Doctor,Marketing,Low,High,Married,4768,7,Good,1
+1053,30,No,Research & Development,7,Bachelor,Technical Degree,High,High,Divorced,1274,1,Good,1
+1054,57,No,Research & Development,1,College,Life Sciences,Medium,High,Married,4900,0,Good,12
+1055,49,No,Research & Development,7,Master,Life Sciences,High,Medium,Divorced,10466,3,Better,8
+1056,34,No,Research & Development,15,Bachelor,Medical,Medium,Low,Divorced,17007,7,Good,14
+1057,28,Yes,Sales,1,Bachelor,Technical Degree,Low,High,Married,2909,3,Best,3
+1058,29,Yes,Sales,13,Bachelor,Technical Degree,Low,Medium,Single,5765,5,Bad,5
+1059,34,Yes,Sales,24,Master,Medical,Low,Medium,Single,4599,0,Best,15
+1060,35,No,Sales,7,Below College,Life Sciences,Very High,High,Married,2404,1,Better,1
+1061,24,Yes,Research & Development,9,Bachelor,Medical,Medium,Low,Single,3172,2,Good,0
+1062,24,No,Sales,13,College,Life Sciences,Very High,Medium,Married,2033,1,Better,1
+1063,44,No,Research & Development,2,Below College,Medical,Medium,High,Single,10209,5,Good,2
+1064,29,No,Sales,19,Bachelor,Life Sciences,High,High,Divorced,8620,1,Better,10
+1065,30,No,Human Resources,1,Bachelor,Life Sciences,High,High,Divorced,2064,0,Best,5
+1066,55,No,Research & Development,4,Master,Life Sciences,Very High,High,Married,4035,0,Better,3
+1067,33,No,Research & Development,4,Master,Medical,Low,Medium,Married,3838,8,Better,5
+1068,47,No,Sales,14,Bachelor,Medical,High,High,Married,4591,3,Good,5
+1069,28,Yes,Research & Development,2,College,Medical,High,Low,Single,2561,7,Good,0
+1070,28,No,Research & Development,1,Bachelor,Life Sciences,Low,High,Divorced,1563,1,Bad,1
+1071,28,No,Sales,7,Bachelor,Life Sciences,High,Low,Single,4898,0,Better,4
+1072,49,No,Research & Development,3,College,Medical,High,Low,Married,4789,4,Better,3
+1073,29,No,Research & Development,2,Below College,Life Sciences,Very High,Medium,Married,3180,0,Better,3
+1074,28,No,Research & Development,29,Below College,Life Sciences,High,Medium,Married,6549,1,Good,8
+1075,33,No,Research & Development,8,Doctor,Life Sciences,Very High,High,Single,6388,2,Better,0
+1076,32,No,Research & Development,10,Bachelor,Medical,High,Very High,Single,11244,2,Best,5
+1077,54,No,Research & Development,11,Master,Medical,Medium,Very High,Divorced,16032,3,Better,14
+1078,29,Yes,Research & Development,1,Master,Technical Degree,Low,Low,Single,2362,6,Bad,9
+1079,44,No,Research & Development,28,Bachelor,Life Sciences,Very High,Low,Married,16328,3,Best,20
+1080,39,No,Research & Development,6,Bachelor,Life Sciences,Medium,Medium,Single,8376,4,Better,2
+1081,46,No,Sales,3,Bachelor,Life Sciences,High,Medium,Married,16606,8,Best,13
+1082,35,No,Research & Development,16,Bachelor,Life Sciences,Very High,Medium,Single,8606,1,Bad,11
+1083,23,No,Research & Development,20,Below College,Life Sciences,Low,High,Single,2272,0,Better,4
+1084,40,Yes,Research & Development,9,Master,Life Sciences,Very High,Low,Single,2018,3,Bad,5
+1085,34,No,Sales,1,Bachelor,Technical Degree,Very High,High,Married,7083,1,Better,10
+1086,31,Yes,Research & Development,3,Bachelor,Life Sciences,Very High,High,Single,4084,1,Bad,7
+1087,50,No,Research & Development,22,Doctor,Medical,High,Very High,Single,14411,1,Better,32
+1088,34,No,Sales,7,College,Technical Degree,Medium,High,Married,2308,0,Better,11
+1089,42,No,Research & Development,2,Bachelor,Medical,High,Medium,Married,4841,4,Better,1
+1090,37,No,Research & Development,13,Bachelor,Medical,Low,Very High,Married,4285,1,Better,10
+1091,29,No,Research & Development,8,Below College,Other,High,Low,Married,9715,3,Better,7
+1092,33,No,Research & Development,25,Bachelor,Life Sciences,Very High,Medium,Single,4320,1,Better,5
+1093,45,No,Research & Development,28,Bachelor,Technical Degree,Very High,Very High,Married,2132,4,Better,5
+1094,42,No,Research & Development,2,Bachelor,Life Sciences,Very High,Very High,Married,10124,2,Bad,20
+1095,40,No,Sales,9,College,Medical,Low,Low,Married,5473,0,Best,8
+1096,33,No,Research & Development,28,Master,Life Sciences,Medium,High,Married,5207,1,Better,15
+1097,40,No,Human Resources,6,College,Medical,High,Very High,Single,16437,1,Better,21
+1098,24,No,Research & Development,21,College,Technical Degree,High,Low,Divorced,2296,0,Better,1
+1099,40,No,Research & Development,8,College,Life Sciences,Very High,Very High,Divorced,4069,3,Better,2
+1100,45,No,Research & Development,1,Master,Technical Degree,Low,Medium,Divorced,7441,1,Better,10
+1101,35,No,Sales,28,Master,Life Sciences,Medium,High,Married,2430,0,Better,5
+1102,32,No,Research & Development,5,College,Life Sciences,Very High,Medium,Married,5878,3,Better,7
+1103,36,No,Sales,2,Master,Life Sciences,High,Very High,Single,2644,3,Good,3
+1104,48,No,Sales,16,Master,Life Sciences,High,High,Divorced,6439,8,Better,8
+1105,29,No,Research & Development,9,Bachelor,Life Sciences,High,High,Married,2451,6,Good,1
+1106,33,No,Sales,8,Master,Life Sciences,Low,Low,Married,6392,2,Bad,2
+1107,30,Yes,Sales,1,Bachelor,Life Sciences,Medium,Low,Married,9714,1,Better,10
+1108,38,No,Human Resources,10,Master,Human Resources,High,High,Married,6077,3,Better,6
+1109,35,No,Research & Development,1,Bachelor,Medical,Very High,Low,Single,2450,1,Better,3
+1110,30,No,Sales,29,Master,Technical Degree,High,Medium,Married,9250,3,Better,4
+1111,35,Yes,Research & Development,2,Bachelor,Life Sciences,Low,Low,Divorced,2074,1,Better,1
+1112,53,Yes,Research & Development,2,Doctor,Technical Degree,High,Very High,Married,10169,0,Better,33
+1113,38,Yes,Research & Development,2,Bachelor,Medical,High,Medium,Married,4855,4,Better,5
+1114,32,No,Research & Development,1,Master,Technical Degree,Very High,Low,Married,4087,4,Good,6
+1115,48,No,Research & Development,15,Master,Other,High,Low,Married,2367,8,Good,8
+1116,34,No,Research & Development,7,Master,Medical,Low,Very High,Single,2972,1,Bad,1
+1117,55,No,Sales,26,Doctor,Marketing,High,Very High,Married,19586,1,Better,36
+1118,34,No,Research & Development,1,Master,Life Sciences,Medium,Very High,Married,5484,9,Good,2
+1119,26,No,Research & Development,3,Bachelor,Life Sciences,Low,Very High,Married,2061,1,Better,1
+1120,38,No,Sales,14,Bachelor,Life Sciences,High,Medium,Married,9924,0,Better,9
+1121,38,No,Sales,16,Bachelor,Life Sciences,Medium,Medium,Single,4198,2,Best,3
+1122,36,No,Sales,1,Master,Life Sciences,Medium,High,Single,6815,6,Better,1
+1123,29,No,Research & Development,3,Below College,Medical,Medium,Low,Single,4723,1,Better,10
+1124,35,No,Research & Development,10,Master,Medical,Low,High,Single,6142,3,Better,5
+1125,39,No,Sales,6,Bachelor,Medical,Very High,High,Married,8237,2,Better,7
+1126,29,No,Research & Development,2,Below College,Life Sciences,Low,Very High,Divorced,8853,1,Best,6
+1127,50,No,Sales,9,Bachelor,Marketing,High,High,Married,19331,4,Better,1
+1128,23,No,Research & Development,10,Bachelor,Technical Degree,Very High,High,Married,2073,2,Better,2
+1129,36,No,Research & Development,6,Master,Life Sciences,Low,Low,Married,5562,3,Better,3
+1130,42,No,Research & Development,9,College,Other,Very High,Very High,Single,19613,8,Better,1
+1131,35,No,Research & Development,28,Bachelor,Life Sciences,Medium,High,Married,3407,1,Good,10
+1132,34,No,Research & Development,10,Master,Technical Degree,Very High,High,Married,5063,1,Good,8
+1133,40,No,Sales,14,College,Life Sciences,Very High,Low,Married,4639,1,Better,5
+1134,43,No,Research & Development,27,Bachelor,Technical Degree,Very High,Medium,Divorced,4876,5,Better,6
+1135,35,No,Research & Development,7,College,Life Sciences,High,Very High,Married,2690,1,Good,1
+1136,46,No,Sales,1,Master,Life Sciences,Very High,Low,Single,17567,1,Bad,26
+1137,28,Yes,Research & Development,24,Bachelor,Medical,High,Medium,Married,2408,1,Better,1
+1138,22,No,Research & Development,26,College,Other,Medium,High,Married,2814,1,Good,4
+1139,50,No,Research & Development,20,Doctor,Medical,Medium,High,Married,11245,2,Better,30
+1140,32,No,Research & Development,5,Master,Other,Medium,Very High,Married,3312,3,Better,3
+1141,44,No,Research & Development,7,Bachelor,Medical,Medium,Very High,Divorced,19049,0,Good,22
+1142,30,No,Research & Development,7,Bachelor,Medical,Medium,Medium,Married,2141,1,Good,6
+1143,45,No,Research & Development,5,Doctor,Medical,High,Low,Single,5769,1,Better,10
+1144,45,No,Sales,26,Bachelor,Marketing,Low,Low,Married,4385,1,Better,10
+1145,31,No,Sales,2,Master,Other,Very High,Low,Single,5332,7,Better,5
+1146,36,No,Research & Development,12,Master,Life Sciences,High,High,Married,4663,9,Better,3
+1147,34,No,Research & Development,10,Master,Life Sciences,High,Very High,Divorced,4724,1,Better,9
+1148,49,No,Research & Development,25,Master,Life Sciences,High,Low,Married,3211,1,Good,9
+1149,39,No,Research & Development,10,Doctor,Medical,Medium,Low,Married,5377,2,Better,7
+1150,27,No,Research & Development,19,Bachelor,Other,Very High,Low,Divorced,4066,1,Better,7
+1151,35,No,Research & Development,18,Doctor,Life Sciences,Medium,Low,Married,5208,1,Better,16
+1152,28,No,Research & Development,27,Bachelor,Medical,Medium,Low,Divorced,4877,0,Good,5
+1153,21,No,Research & Development,5,Below College,Medical,High,Very High,Single,3117,1,Better,2
+1154,18,Yes,Sales,3,College,Medical,Medium,Very High,Single,1569,1,Best,0
+1155,47,No,Human Resources,26,Master,Life Sciences,Very High,High,Married,19658,3,Better,5
+1156,39,No,Research & Development,3,College,Medical,High,High,Divorced,3069,0,Better,10
+1157,40,No,Research & Development,15,Bachelor,Life Sciences,Low,High,Married,10435,1,Better,18
+1158,35,No,Research & Development,8,Master,Life Sciences,High,High,Married,4148,1,Better,14
+1159,37,No,Research & Development,19,Bachelor,Life Sciences,High,High,Married,5768,3,Good,4
+1160,39,No,Research & Development,4,Bachelor,Medical,Low,High,Single,5042,0,Bad,9
+1161,45,No,Research & Development,2,College,Other,Very High,Very High,Divorced,5770,1,Better,10
+1162,38,No,Research & Development,2,College,Medical,Very High,High,Married,7756,3,Best,5
+1163,35,Yes,Sales,10,Bachelor,Medical,Very High,Low,Married,10306,9,Better,13
+1164,37,No,Research & Development,10,Bachelor,Medical,Medium,Medium,Married,3936,1,Bad,8
+1165,40,No,Research & Development,16,Bachelor,Life Sciences,High,Very High,Single,7945,6,Good,4
+1166,44,No,Human Resources,1,Doctor,Human Resources,Low,Very High,Married,5743,4,Better,10
+1167,48,No,Research & Development,4,Doctor,Medical,High,Very High,Married,15202,2,Better,2
+1168,35,Yes,Sales,15,College,Medical,Low,Very High,Divorced,5440,6,Good,2
+1169,24,No,Research & Development,2,Below College,Technical Degree,Low,Very High,Single,3760,1,Better,6
+1170,27,No,Research & Development,8,Bachelor,Medical,Medium,High,Married,3517,7,Better,3
+1171,27,No,Research & Development,2,Bachelor,Medical,Very High,Very High,Single,2580,2,Good,4
+1172,40,Yes,Research & Development,7,Bachelor,Life Sciences,Low,Low,Single,2166,3,Bad,4
+1173,29,No,Sales,10,Bachelor,Medical,High,High,Single,5869,9,Better,5
+1174,36,No,Research & Development,5,Master,Life Sciences,Medium,Low,Married,8008,4,Better,3
+1175,25,No,Research & Development,2,Below College,Life Sciences,Very High,High,Divorced,5206,1,Better,7
+1176,39,No,Research & Development,12,Bachelor,Medical,Very High,Medium,Married,5295,4,Better,5
+1177,49,No,Research & Development,22,Master,Other,Low,Medium,Married,16413,3,Better,4
+1178,50,No,Research & Development,17,Doctor,Life Sciences,Very High,Low,Divorced,13269,5,Better,14
+1179,20,No,Sales,2,Bachelor,Medical,High,High,Single,2783,1,Better,2
+1180,34,No,Research & Development,3,Bachelor,Life Sciences,Very High,Medium,Divorced,5433,1,Better,11
+1181,36,No,Research & Development,7,Bachelor,Life Sciences,Low,Medium,Single,2013,2,Better,4
+1182,49,No,Research & Development,6,Below College,Life Sciences,High,High,Married,13966,2,Better,15
+1183,36,No,Research & Development,1,Master,Medical,Very High,High,Married,4374,0,Better,3
+1184,36,No,Research & Development,3,College,Life Sciences,Very High,Low,Divorced,6842,6,Better,5
+1185,54,No,Research & Development,22,Doctor,Medical,Medium,High,Married,17426,3,Better,10
+1186,43,No,Research & Development,15,College,Life Sciences,High,High,Married,17603,1,Better,14
+1187,35,Yes,Sales,12,Master,Other,Very High,Very High,Single,4581,3,Best,11
+1188,38,No,Research & Development,1,Bachelor,Life Sciences,Very High,Very High,Married,4735,7,Best,13
+1189,29,No,Sales,5,Bachelor,Medical,Low,Medium,Divorced,4187,1,Good,10
+1190,33,No,Sales,2,Master,Medical,Very High,Very High,Divorced,5505,1,Better,6
+1191,32,No,Research & Development,2,Bachelor,Medical,Very High,Medium,Divorced,5470,0,Good,9
+1192,31,No,Sales,5,Master,Life Sciences,Low,Very High,Married,5476,1,Better,10
+1193,49,No,Research & Development,16,Bachelor,Medical,Very High,Low,Divorced,2587,4,Good,2
+1194,38,No,Research & Development,2,Bachelor,Medical,Very High,Medium,Single,2440,1,Better,4
+1195,47,No,Sales,2,Master,Life Sciences,Medium,Medium,Divorced,15972,6,Better,3
+1196,49,No,Research & Development,1,Bachelor,Life Sciences,High,High,Single,15379,4,Better,8
+1197,41,No,Sales,23,College,Life Sciences,Very High,High,Single,7082,3,Better,2
+1198,20,No,Sales,9,Below College,Life Sciences,Very High,Low,Single,2728,1,Better,2
+1199,33,No,Sales,16,Bachelor,Life Sciences,High,Very High,Divorced,5368,1,Better,6
+1200,36,No,Research & Development,26,Master,Life Sciences,Low,High,Married,5347,6,Good,3
+1201,44,No,Human Resources,1,Bachelor,Life Sciences,High,Very High,Divorced,3195,4,Better,2
+1202,23,Yes,Research & Development,8,Below College,Medical,Very High,High,Single,3989,1,Better,5
+1203,38,No,Research & Development,4,College,Medical,Very High,High,Married,3306,7,Good,0
+1204,53,No,Research & Development,24,Master,Medical,Medium,Very High,Married,7005,3,Better,4
+1205,48,Yes,Sales,7,College,Medical,Very High,High,Married,2655,2,Better,9
+1206,32,Yes,Research & Development,2,Master,Life Sciences,Very High,Medium,Single,1393,1,Better,1
+1207,26,No,Research & Development,7,Bachelor,Medical,Very High,Very High,Single,2570,1,Better,7
+1208,55,No,Research & Development,22,Bachelor,Technical Degree,Low,Medium,Divorced,3537,5,Better,4
+1209,34,No,Research & Development,5,College,Medical,Medium,Very High,Married,3986,1,Best,15
+1210,60,No,Research & Development,1,Master,Medical,High,Very High,Divorced,10883,3,Best,1
+1211,33,No,Research & Development,21,Bachelor,Medical,Medium,Medium,Married,2028,1,Better,14
+1212,37,No,Sales,1,Master,Medical,High,Very High,Divorced,9525,1,Good,6
+1213,34,No,Research & Development,19,Bachelor,Life Sciences,Medium,Very High,Married,2929,1,Better,10
+1214,23,Yes,Sales,7,Bachelor,Life Sciences,High,Very High,Divorced,2275,1,Better,3
+1215,44,No,Research & Development,2,Bachelor,Life Sciences,High,Very High,Married,7879,1,Better,8
+1216,35,No,Research & Development,2,Master,Medical,Low,Very High,Single,4930,0,Best,5
+1217,43,No,Sales,2,Bachelor,Medical,Very High,Very High,Married,7847,1,Better,10
+1218,24,No,Research & Development,9,Bachelor,Medical,High,High,Married,4401,1,Better,5
+1219,41,No,Sales,6,Bachelor,Marketing,Very High,High,Single,9241,1,Better,10
+1220,29,No,Research & Development,9,Master,Medical,Very High,High,Married,2974,9,Better,5
+1221,36,No,Sales,2,Master,Life Sciences,High,Very High,Single,4502,3,Good,13
+1222,45,No,Research & Development,1,Below College,Life Sciences,High,High,Married,10748,3,Good,23
+1223,24,Yes,Human Resources,22,Below College,Human Resources,Very High,High,Married,1555,1,Better,1
+1224,47,Yes,Sales,9,Bachelor,Life Sciences,High,High,Married,12936,7,Bad,23
+1225,26,No,Research & Development,17,Master,Medical,Very High,High,Married,2305,1,Best,3
+1226,45,No,Research & Development,28,College,Technical Degree,Very High,Medium,Single,16704,1,Better,21
+1227,32,No,Research & Development,10,Bachelor,Life Sciences,Low,High,Married,3433,6,Good,5
+1228,31,No,Research & Development,2,Master,Life Sciences,Medium,High,Married,3477,1,Best,5
+1229,41,No,Human Resources,4,Bachelor,Human Resources,High,Medium,Married,6430,6,Better,3
+1230,40,No,Research & Development,8,College,Life Sciences,Medium,Low,Married,6516,2,Better,1
+1231,24,No,Research & Development,29,Below College,Medical,Medium,Low,Divorced,3907,1,Best,6
+1232,46,No,Research & Development,13,Master,Life Sciences,High,Medium,Single,5562,6,Better,10
+1233,35,No,Research & Development,27,Master,Life Sciences,Very High,High,Married,6883,2,Better,7
+1234,30,No,Research & Development,16,Below College,Life Sciences,Medium,Very High,Married,2862,1,Good,10
+1235,47,No,Sales,2,Master,Marketing,High,Medium,Married,4978,7,Bad,1
+1236,46,No,Sales,2,Bachelor,Life Sciences,High,Very High,Divorced,10368,4,Good,10
+1237,36,Yes,Sales,13,Doctor,Marketing,Medium,Low,Divorced,6134,5,Better,2
+1238,32,Yes,Sales,1,College,Life Sciences,Low,Medium,Single,6735,6,Better,0
+1239,23,No,Research & Development,4,Below College,Medical,High,Medium,Single,3295,1,Bad,3
+1240,31,No,Research & Development,24,Below College,Technical Degree,Very High,Very High,Single,5238,2,Good,5
+1241,39,No,Research & Development,1,Bachelor,Life Sciences,Very High,Very High,Married,6472,1,Better,9
+1242,32,No,Sales,19,Bachelor,Life Sciences,Very High,High,Married,9610,3,Bad,4
+1243,40,No,Sales,7,Master,Medical,Medium,Medium,Single,19833,1,Good,21
+1244,45,No,Human Resources,4,Bachelor,Life Sciences,High,High,Married,9756,4,Best,5
+1245,30,No,Research & Development,2,Master,Technical Degree,Very High,Low,Single,4968,0,Better,9
+1246,24,No,Human Resources,10,Bachelor,Medical,Low,Very High,Married,2145,0,Better,2
+1247,30,Yes,Human Resources,8,Bachelor,Human Resources,High,Very High,Divorced,2180,6,Good,4
+1248,31,No,Sales,5,Bachelor,Technical Degree,Low,High,Married,8346,1,Better,5
+1249,27,No,Research & Development,8,Bachelor,Medical,High,Very High,Single,3445,1,Good,6
+1250,29,Yes,Sales,9,Bachelor,Marketing,Medium,Medium,Single,2760,1,Better,2
+1251,29,No,Research & Development,1,Bachelor,Life Sciences,Very High,High,Single,6294,8,Best,3
+1252,30,No,Sales,15,College,Marketing,High,Low,Divorced,7140,2,Better,7
+1253,34,No,Research & Development,2,Master,Medical,Very High,Very High,Married,2932,0,Better,5
+1254,33,No,Sales,2,Bachelor,Marketing,Very High,Medium,Single,5147,8,Good,11
+1255,49,No,Sales,11,Master,Marketing,Very High,Very High,Single,4507,3,Best,5
+1256,33,Yes,Sales,16,Bachelor,Life Sciences,Low,Low,Single,8564,2,Good,0
+1257,38,No,Research & Development,2,College,Medical,High,Medium,Married,2468,4,Good,6
+1258,31,Yes,Sales,16,Master,Marketing,Low,High,Married,8161,2,Better,1
+1259,29,No,Research & Development,4,Bachelor,Technical Degree,Very High,Low,Divorced,2109,1,Better,1
+1260,30,No,Research & Development,16,Bachelor,Life Sciences,High,High,Married,5294,3,Better,7
+1261,32,No,Research & Development,5,Master,Technical Degree,Medium,Medium,Single,2718,2,Better,7
+1262,38,No,Research & Development,18,Bachelor,Medical,Medium,Very High,Married,5811,3,Better,1
+1263,43,Yes,Research & Development,17,Bachelor,Technical Degree,High,High,Married,2437,9,Better,1
+1264,42,No,Research & Development,12,Bachelor,Medical,Medium,Medium,Divorced,2766,8,Good,5
+1265,55,No,Research & Development,2,Bachelor,Medical,High,Low,Married,19038,8,Better,1
+1266,33,No,Research & Development,4,Bachelor,Technical Degree,Very High,Medium,Divorced,3055,5,Good,9
+1267,41,No,Research & Development,9,Master,Life Sciences,High,Low,Divorced,2289,1,Better,5
+1268,34,No,Sales,10,Bachelor,Life Sciences,Very High,High,Divorced,4001,1,Better,15
+1269,53,No,Research & Development,1,Master,Medical,Low,High,Married,12965,4,Good,3
+1270,43,No,Human Resources,2,Bachelor,Life Sciences,Medium,Very High,Single,3539,0,Better,9
+1271,34,No,Sales,3,College,Life Sciences,Very High,Very High,Single,6029,5,Better,2
+1272,21,Yes,Sales,7,Below College,Marketing,Medium,Medium,Single,2679,1,Better,1
+1273,38,No,Research & Development,6,College,Other,Very High,High,Married,3702,1,Better,5
+1274,22,Yes,Research & Development,8,Below College,Medical,High,Low,Married,2398,1,Better,1
+1275,31,No,Sales,29,Master,Marketing,Low,Very High,Married,5468,1,Better,12
+1276,51,No,Research & Development,3,Bachelor,Technical Degree,Low,High,Married,13116,2,Better,2
+1277,37,No,Sales,9,College,Marketing,Medium,Medium,Married,4189,1,Better,5
+1278,46,No,Research & Development,2,Master,Medical,High,Very High,Divorced,19328,7,Better,2
+1279,36,No,Research & Development,10,Bachelor,Life Sciences,Very High,Low,Married,8321,7,Better,12
+1280,44,Yes,Research & Development,1,College,Medical,High,Medium,Divorced,2342,1,Good,5
+1281,37,No,Human Resources,8,College,Other,High,Medium,Divorced,4071,2,Good,10
+1282,35,Yes,Sales,27,Bachelor,Life Sciences,High,Very High,Single,5813,1,Better,10
+1283,33,No,Research & Development,8,Master,Life Sciences,Very High,Low,Married,3143,6,Better,10
+1284,28,No,Research & Development,1,Bachelor,Life Sciences,High,Very High,Married,2044,1,Best,5
+1285,39,No,Research & Development,10,Below College,Medical,High,High,Single,13464,7,Better,4
+1286,46,No,Sales,26,College,Life Sciences,Medium,Medium,Single,7991,8,Better,2
+1287,40,No,Research & Development,2,College,Life Sciences,High,Low,Married,3377,4,Good,4
+1288,42,No,Research & Development,13,Bachelor,Medical,Medium,Low,Married,5538,5,Good,0
+1289,35,No,Research & Development,2,College,Medical,Medium,Very High,Divorced,5762,2,Better,7
+1290,38,No,Human Resources,2,Bachelor,Human Resources,Low,Medium,Divorced,2592,5,Better,11
+1291,34,Yes,Research & Development,9,Master,Life Sciences,Very High,Low,Married,5346,4,Good,7
+1292,37,Yes,Research & Development,10,Master,Medical,Very High,Low,Single,4213,1,Bad,10
+1293,39,No,Sales,20,Bachelor,Life Sciences,High,Very High,Divorced,4127,2,Better,2
+1294,43,No,Research & Development,9,Bachelor,Life Sciences,Low,High,Single,2438,4,Good,3
+1295,41,No,Research & Development,5,Bachelor,Life Sciences,Medium,Medium,Single,6870,3,Bad,3
+1296,41,No,Sales,4,Below College,Marketing,High,High,Divorced,10447,0,Best,22
+1297,30,No,Research & Development,10,Bachelor,Medical,Low,High,Single,9667,9,Better,7
+1298,26,Yes,Human Resources,20,College,Medical,Very High,Medium,Married,2148,0,Better,5
+1299,46,Yes,Research & Development,21,College,Medical,Very High,Medium,Married,8926,4,Best,9
+1300,40,No,Research & Development,1,Bachelor,Life Sciences,High,Very High,Divorced,6513,4,Better,5
+1301,34,No,Sales,8,College,Technical Degree,Medium,High,Married,6799,1,Better,10
+1302,58,No,Sales,2,Bachelor,Medical,Medium,Medium,Divorced,16291,4,Good,16
+1303,35,No,Research & Development,23,Master,Medical,Medium,High,Married,2705,0,Best,5
+1304,47,No,Research & Development,4,Bachelor,Life Sciences,High,Medium,Divorced,10333,8,Better,22
+1305,40,No,Research & Development,12,Bachelor,Life Sciences,Medium,Low,Divorced,4448,2,Better,7
+1306,54,No,Research & Development,7,Master,Medical,Very High,Very High,Married,6854,4,Good,7
+1307,31,No,Sales,7,Master,Marketing,Low,Low,Married,9637,2,Better,3
+1308,28,No,Research & Development,1,Bachelor,Medical,High,Low,Married,3591,1,Better,3
+1309,38,No,Sales,2,Master,Marketing,Medium,Very High,Married,5405,2,Good,4
+1310,26,No,Sales,10,Bachelor,Medical,High,Very High,Single,4684,1,Better,5
+1311,58,No,Research & Development,15,Master,Life Sciences,Low,High,Married,15787,2,Better,2
+1312,18,No,Research & Development,14,Bachelor,Medical,Medium,High,Single,1514,1,Bad,0
+1313,31,Yes,Human Resources,18,Doctor,Human Resources,Very High,Low,Married,2956,0,Better,1
+1314,29,Yes,Human Resources,13,Bachelor,Human Resources,Low,Low,Divorced,2335,4,Better,2
+1315,45,No,Sales,2,Master,Life Sciences,High,High,Married,5154,4,Best,8
+1316,36,No,Research & Development,2,Master,Other,Very High,Medium,Married,6962,4,Better,1
+1317,43,No,Sales,2,Master,Life Sciences,Low,Very High,Married,5675,1,Better,7
+1318,27,No,Research & Development,5,College,Life Sciences,Very High,Very High,Single,2379,0,Good,5
+1319,29,No,Research & Development,20,Below College,Medical,Very High,Very High,Married,3812,1,Best,11
+1320,32,No,Sales,10,Master,Marketing,Very High,Very High,Single,4648,8,Best,0
+1321,42,No,Research & Development,10,Master,Technical Degree,High,High,Married,2936,3,Good,6
+1322,47,No,Research & Development,9,Master,Life Sciences,Medium,High,Single,2105,4,Better,2
+1323,46,No,Research & Development,2,College,Life Sciences,Very High,Very High,Divorced,8578,3,Good,9
+1324,28,No,Human Resources,1,College,Life Sciences,High,Very High,Divorced,2706,1,Better,3
+1325,29,No,Research & Development,29,Below College,Life Sciences,Very High,High,Divorced,6384,8,Better,7
+1326,42,No,Research & Development,8,Bachelor,Life Sciences,Very High,High,Single,3968,4,Better,0
+1327,32,Yes,Sales,2,Master,Marketing,High,Medium,Single,9907,7,Good,2
+1328,46,No,Sales,3,Bachelor,Technical Degree,Low,Low,Divorced,13225,2,Better,19
+1329,27,No,Sales,23,Below College,Medical,Medium,High,Married,3540,1,Better,9
+1330,29,No,Human Resources,6,Below College,Medical,Very High,Medium,Married,2804,1,Better,1
+1331,43,No,Research & Development,6,Bachelor,Medical,Low,High,Married,19392,7,Better,16
+1332,48,No,Research & Development,10,Bachelor,Life Sciences,Very High,Medium,Married,19665,4,Better,22
+1333,29,Yes,Research & Development,24,College,Life Sciences,Very High,Very High,Single,2439,1,Good,1
+1334,46,Yes,Sales,10,Bachelor,Life Sciences,High,Medium,Married,7314,5,Better,8
+1335,27,No,Research & Development,15,Bachelor,Life Sciences,Very High,Low,Married,4774,0,Good,7
+1336,39,No,Research & Development,19,Master,Other,Very High,Very High,Divorced,3902,8,Better,2
+1337,55,No,Research & Development,2,Master,Technical Degree,Medium,Very High,Married,2662,8,Best,5
+1338,28,No,Sales,3,Bachelor,Medical,Medium,Medium,Married,2856,1,Better,1
+1339,30,Yes,Sales,9,Bachelor,Medical,Medium,Very High,Single,1081,1,Good,1
+1340,22,Yes,Research & Development,7,Below College,Life Sciences,Very High,Medium,Single,2472,1,Better,1
+1341,36,No,Sales,10,Master,Technical Degree,Medium,High,Married,5673,1,Better,10
+1342,31,No,Research & Development,20,Bachelor,Life Sciences,Medium,High,Divorced,4197,1,Better,10
+1343,34,No,Sales,4,Bachelor,Life Sciences,High,Very High,Married,9713,2,Better,5
+1344,29,No,Research & Development,7,Bachelor,Life Sciences,Very High,Low,Single,2062,3,Better,3
+1345,37,No,Research & Development,7,Master,Medical,Very High,Low,Married,4284,5,Better,5
+1346,35,No,Research & Development,16,College,Other,Very High,Medium,Married,4788,0,Better,3
+1347,45,No,Research & Development,25,College,Life Sciences,Medium,Very High,Married,5906,0,Good,9
+1348,36,No,Human Resources,2,Below College,Human Resources,Medium,Very High,Single,3886,1,Good,10
+1349,40,No,Research & Development,1,Master,Life Sciences,Low,Low,Divorced,16823,2,Better,19
+1350,26,No,Research & Development,1,College,Life Sciences,Medium,High,Married,2933,1,Good,1
+1351,27,No,Sales,2,College,Medical,Low,High,Single,6500,0,Good,8
+1352,48,No,Research & Development,22,Bachelor,Medical,Very High,Very High,Divorced,17174,3,Better,22
+1353,44,No,Research & Development,1,Master,Life Sciences,Medium,Low,Married,5033,2,Better,2
+1354,34,Yes,Research & Development,16,Master,Technical Degree,Very High,Low,Married,2307,1,Better,5
+1355,56,Yes,Research & Development,24,College,Life Sciences,Low,Very High,Single,2587,1,Better,4
+1356,36,No,Sales,17,College,Marketing,High,Medium,Married,5507,2,Bad,4
+1357,41,No,Sales,8,Bachelor,Marketing,High,Medium,Married,4393,5,Better,5
+1358,42,No,Research & Development,6,Bachelor,Medical,High,Low,Married,13348,9,Best,13
+1359,31,No,Sales,10,College,Medical,High,Very High,Divorced,6583,2,Better,5
+1360,34,No,Sales,3,Below College,Medical,Very High,Very High,Married,8103,3,Good,4
+1361,31,No,Research & Development,4,Bachelor,Medical,Low,High,Divorced,3978,8,Good,2
+1362,26,No,Research & Development,6,Bachelor,Other,High,Very High,Married,2544,0,Better,7
+1363,45,No,Research & Development,1,Master,Medical,Medium,High,Single,5399,4,Better,4
+1364,33,No,Sales,10,Master,Marketing,Medium,High,Single,5487,1,Good,10
+1365,28,No,Sales,1,College,Life Sciences,High,Very High,Married,6834,1,Better,7
+1366,29,Yes,Sales,24,Bachelor,Technical Degree,High,Low,Single,1091,1,Better,1
+1367,39,No,Sales,21,Master,Life Sciences,Low,High,Married,5736,6,Better,3
+1368,27,No,Research & Development,2,Master,Technical Degree,Medium,Medium,Married,2226,1,Good,5
+1369,34,No,Research & Development,22,Master,Other,High,Very High,Married,5747,1,Better,15
+1370,28,Yes,Sales,13,College,Marketing,Very High,High,Single,9854,3,Better,2
+1371,47,No,Research & Development,14,Master,Technical Degree,High,Medium,Married,5467,8,Best,8
+1372,56,No,Sales,11,Doctor,Marketing,Very High,Low,Married,5380,4,Better,0
+1373,39,No,Research & Development,9,College,Medical,Low,Low,Married,5151,1,Better,10
+1374,38,No,Research & Development,8,Bachelor,Medical,Very High,Medium,Divorced,2133,1,Better,20
+1375,58,No,Sales,21,Bachelor,Life Sciences,Very High,Very High,Married,17875,4,Good,1
+1376,32,Yes,Research & Development,5,College,Life Sciences,Low,High,Single,2432,3,Better,4
+1377,38,No,Research & Development,9,College,Life Sciences,Medium,Very High,Divorced,4771,2,Best,5
+1378,49,No,Research & Development,2,Below College,Life Sciences,Medium,Very High,Married,19161,3,Better,5
+1379,42,No,Sales,12,Master,Marketing,Medium,Very High,Divorced,5087,3,Better,0
+1380,27,Yes,Human Resources,22,Bachelor,Human Resources,Low,Medium,Married,2863,1,Better,1
+1381,35,No,Sales,18,Master,Medical,Medium,Low,Married,5561,0,Bad,5
+1382,28,No,Research & Development,16,Bachelor,Medical,High,High,Single,2144,1,Good,5
+1383,31,No,Research & Development,3,College,Medical,High,Low,Divorced,3065,1,Best,4
+1384,36,No,Research & Development,9,Master,Life Sciences,Low,Medium,Married,2810,1,Better,5
+1385,34,No,Sales,1,Bachelor,Marketing,Low,Very High,Single,9888,1,Good,14
+1386,34,No,Sales,13,Master,Medical,Very High,High,Divorced,8628,1,Good,8
+1387,26,No,Research & Development,1,Bachelor,Medical,High,Low,Single,2867,0,Good,7
+1388,29,No,Research & Development,1,Bachelor,Life Sciences,Low,Low,Married,5373,0,Good,5
+1389,32,No,Research & Development,15,Master,Medical,High,Very High,Divorced,6667,5,Better,5
+1390,31,No,Research & Development,1,Bachelor,Life Sciences,Very High,Low,Married,5003,1,Better,10
+1391,28,Yes,Research & Development,17,Bachelor,Technical Degree,High,Very High,Divorced,2367,5,Good,4
+1392,38,No,Sales,1,Bachelor,Life Sciences,Low,Low,Single,2858,4,Good,1
+1393,35,No,Sales,7,Master,Life Sciences,High,Very High,Married,5204,1,Better,10
+1394,27,No,Sales,9,Bachelor,Marketing,Very High,Very High,Single,4105,1,Better,7
+1395,32,No,Research & Development,5,Master,Life Sciences,Very High,Very High,Single,9679,8,Better,1
+1396,31,Yes,Sales,26,Master,Marketing,Low,Very High,Married,5617,1,Better,10
+1397,53,Yes,Sales,24,Master,Life Sciences,Low,Low,Single,10448,6,Good,2
+1398,54,No,Research & Development,9,College,Life Sciences,Low,High,Married,2897,3,Good,4
+1399,33,No,Research & Development,7,College,Life Sciences,Very High,High,Divorced,5968,1,Better,9
+1400,43,No,Research & Development,11,Bachelor,Life Sciences,Low,High,Married,7510,1,Better,10
+1401,38,No,Human Resources,1,Master,Other,Very High,Medium,Married,2991,0,Better,6
+1402,55,No,Human Resources,26,Master,Human Resources,High,Medium,Married,19636,4,Better,10
+1403,31,No,Research & Development,2,Below College,Medical,Very High,Very High,Divorced,1129,1,Better,1
+1404,39,No,Sales,15,Master,Marketing,Medium,Low,Single,13341,0,Better,20
+1405,42,No,Research & Development,23,College,Life Sciences,Very High,High,Single,4332,1,Better,20
+1406,31,No,Research & Development,10,Bachelor,Medical,High,High,Married,11031,4,Best,11
+1407,54,No,Research & Development,10,Bachelor,Medical,High,Low,Single,4440,6,Better,5
+1408,24,No,Research & Development,1,College,Life Sciences,Medium,High,Single,4617,1,Good,4
+1409,23,No,Research & Development,12,College,Other,Very High,Very High,Single,2647,1,Best,5
+1410,40,No,Research & Development,11,Bachelor,Technical Degree,Very High,High,Married,6323,1,Best,10
+1411,40,No,Sales,2,College,Marketing,Medium,Medium,Married,5677,3,Better,11
+1412,25,No,Human Resources,2,Bachelor,Human Resources,High,Medium,Married,2187,4,Better,2
+1413,30,No,Research & Development,1,College,Medical,Very High,Medium,Married,3748,1,Good,12
+1414,25,No,Research & Development,2,Below College,Other,Very High,High,Divorced,3977,6,Good,2
+1415,47,No,Research & Development,25,Bachelor,Medical,Low,High,Single,8633,2,Better,17
+1416,33,No,Research & Development,1,College,Medical,Medium,High,Divorced,2008,1,Good,1
+1417,38,No,Sales,1,Master,Life Sciences,Very High,Medium,Married,4440,0,Better,15
+1418,31,No,Sales,2,College,Life Sciences,Low,High,Married,3067,0,Better,2
+1419,38,No,Research & Development,6,Master,Life Sciences,Low,High,Married,5321,2,Better,8
+1420,42,No,Research & Development,18,Master,Life Sciences,Very High,Low,Divorced,5410,6,Good,4
+1421,41,No,Research & Development,1,Bachelor,Life Sciences,Very High,Very High,Married,2782,3,Better,5
+1422,47,No,Research & Development,1,Below College,Medical,High,Medium,Married,11957,0,Bad,13
+1423,35,No,Research & Development,11,Master,Medical,Very High,High,Married,2660,7,Better,2
+1424,22,No,Research & Development,1,College,Life Sciences,Very High,High,Single,3375,0,Best,3
+1425,35,No,Research & Development,9,Master,Medical,Medium,High,Single,5098,1,Better,10
+1426,33,No,Research & Development,15,College,Medical,Medium,Very High,Married,4878,0,Better,9
+1427,32,No,Research & Development,29,Master,Life Sciences,High,Medium,Single,2837,1,Better,6
+1428,40,No,Research & Development,1,Master,Life Sciences,Low,Very High,Married,2406,8,Good,1
+1429,32,No,Sales,1,Master,Medical,Medium,Medium,Married,2269,0,Better,2
+1430,39,No,Research & Development,24,Below College,Life Sciences,Low,Very High,Single,4108,7,Better,7
+1431,38,No,Research & Development,10,Bachelor,Medical,Medium,High,Married,13206,3,Better,18
+1432,32,No,Sales,1,Master,Marketing,High,Very High,Married,10422,1,Better,14
+1433,37,No,Research & Development,10,Bachelor,Life Sciences,High,Very High,Married,13744,1,Better,16
+1434,25,No,Sales,8,College,Other,Low,High,Divorced,4907,0,Good,5
+1435,52,No,Sales,29,Master,Life Sciences,Low,Very High,Divorced,3482,2,Good,9
+1436,44,No,Research & Development,1,Bachelor,Medical,Medium,Very High,Single,2436,6,Better,4
+1437,21,No,Sales,5,Below College,Medical,High,Low,Single,2380,1,Better,2
+1438,39,No,Research & Development,9,Bachelor,Life Sciences,Very High,Very High,Single,19431,2,Good,6
+1439,23,Yes,Sales,9,Bachelor,Marketing,Very High,Low,Married,1790,1,Good,1
+1440,36,No,Sales,3,Bachelor,Medical,Low,Very High,Married,7644,0,Better,9
+1441,36,No,Research & Development,4,College,Life Sciences,Very High,Medium,Divorced,5131,7,Better,4
+1442,56,No,Research & Development,1,Master,Life Sciences,High,High,Divorced,6306,1,Good,13
+1443,29,Yes,Research & Development,1,Master,Medical,Low,Very High,Married,4787,9,Best,2
+1444,42,No,Research & Development,2,Bachelor,Life Sciences,Low,High,Married,18880,5,Good,22
+1445,56,Yes,Research & Development,7,College,Technical Degree,Very High,High,Married,2339,8,Bad,10
+1446,41,No,Research & Development,28,Master,Life Sciences,Low,Medium,Married,13570,0,Better,20
+1447,34,No,Sales,28,Bachelor,Marketing,Very High,High,Married,6712,1,Better,8
+1448,36,No,Sales,15,Master,Marketing,Very High,Very High,Divorced,5406,1,Good,15
+1449,41,No,Sales,3,Bachelor,Life Sciences,High,Medium,Divorced,8938,2,Better,5
+1450,32,No,Research & Development,2,Bachelor,Technical Degree,Very High,Low,Single,2439,1,Better,4
+1451,35,No,Human Resources,26,Master,Life Sciences,High,Very High,Single,8837,1,Better,9
+1452,38,No,Sales,10,College,Life Sciences,Low,Very High,Married,5343,1,Better,10
+1453,50,Yes,Sales,1,Master,Life Sciences,Medium,High,Divorced,6728,7,Better,6
+1454,36,No,Sales,11,Master,Marketing,Medium,Very High,Married,6652,4,Good,6
+1455,45,No,Sales,20,Bachelor,Life Sciences,Very High,High,Single,4850,8,Better,5
+1456,40,No,Research & Development,2,Master,Life Sciences,High,High,Single,2809,2,Better,2
+1457,35,No,Research & Development,18,Master,Life Sciences,High,High,Married,5689,1,Best,10
+1458,40,No,Research & Development,2,Master,Medical,High,High,Married,2001,2,Better,5
+1459,35,No,Research & Development,1,Master,Life Sciences,High,Very High,Married,2977,1,Better,4
+1460,29,No,Research & Development,13,College,Other,Very High,Medium,Married,4025,4,Better,4
+1461,29,No,Research & Development,28,Master,Medical,Very High,Low,Single,3785,1,Bad,5
+1462,50,Yes,Sales,28,Bachelor,Marketing,Very High,Low,Divorced,10854,4,Better,3
+1463,39,No,Sales,24,Below College,Marketing,Medium,Very High,Married,12031,0,Good,20
+1464,31,No,Research & Development,5,Bachelor,Medical,Medium,Low,Single,9936,0,Better,9
+1465,26,No,Sales,5,Bachelor,Other,Very High,High,Single,2966,0,Better,4
+1466,36,No,Research & Development,23,College,Medical,High,Very High,Married,2571,4,Better,5
+1467,39,No,Research & Development,6,Below College,Medical,Very High,Low,Married,9991,4,Better,7
+1468,27,No,Research & Development,4,Bachelor,Life Sciences,Medium,Medium,Married,6142,1,Better,6
+1469,49,No,Sales,2,Bachelor,Medical,Very High,Medium,Married,5390,2,Good,9
+1470,34,No,Research & Development,8,Bachelor,Medical,Medium,High,Married,4404,2,Best,4
